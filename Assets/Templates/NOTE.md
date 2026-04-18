@@ -1,12 +1,12 @@
 <%*
 const { toCamelCase, moveAndOpenFile } = tp.user.utils;
 
-// Get next session number
-function nextNumber() {
-    const sessionRegex = /^Session Notes\/Session (\d+)/;
-    const files = this.app.vault.getMarkdownFiles()
-        .reduce((maxNumber, file) => Math.max(maxNumber, (file.path.match(sessionRegex) || [])[1] || 0), 0) + 1;
-    return files < 10 ? '0' + files : files.toString();
+// Get next session number within a specific folder
+function nextNumber(folder) {
+    const sessionRegex = new RegExp(`^${folder}/Session (\\d+)\\.md$`);
+    const max = app.vault.getMarkdownFiles()
+        .reduce((maxNum, file) => Math.max(maxNum, parseInt((file.path.match(sessionRegex) || [])[1] || 0)), 0) + 1;
+    return max < 10 ? '0' + max : max.toString();
 }
 
 // Open modal form for session note creation
@@ -22,22 +22,30 @@ if (result.status !== 'ok') {
 const date = result.Date.value;
 const title = result.Title.value;
 const location = result.Location.value ? result.Location.value.map(value => `- "[[${value}]]"`).join("\n") : '';
-const banner = result.Banner.value || "session.jpg"
-const number = nextNumber();
-const name = `Session ${number}`;
+const banner = result.Banner.value || "session.jpg";
+const type = result.Type.value || "Campaign";
+const campaign = result.Campaign.value || "Unknown";
 const tags = result.Tags.value
     ? result.Tags.value.map(value => value.startsWith('#') ? `- ${value.slice(1)}` : `- ${toCamelCase(value)}`).join("\n")
     : '';
 
-// Rename & open note in new tab
-await moveAndOpenFile(tp, name);
+// Determine folder based on type
+const folder = type === "One Shot"
+    ? `Session Notes/One Shots/${campaign}`
+    : `Session Notes/Campaigns/${campaign}`;
+
+const number = nextNumber(folder);
+const name = `Session ${number}`;
+const notePath = `${folder}/${name}`;
+
+// Move & open note in new tab
+await moveAndOpenFile(tp, name, notePath);
 
 // Apply icon to note
 const iconize = app.plugins.plugins["obsidian-icon-folder"];
-const icon = "LiNoteBookPen"
-const notePath = `Session Notes/${name}.md`;
-iconize.addFolderIcon(notePath, icon);
-iconize.api.util.dom.createIconNode(iconize, notePath, icon);
+const icon = "LiNoteBookPen";
+iconize.addFolderIcon(`${notePath}.md`, icon);
+iconize.api.util.dom.createIconNode(iconize, `${notePath}.md`, icon);
 
 // Show success notification
 new Notice().noticeEl.innerHTML = `<span style="color: green; font-weight: bold;">Finished!</span><br>New note <span style="text-decoration: underline;">${name}</span> added`;
@@ -45,6 +53,7 @@ _%>
 
 ---
 type: notes
+campaign: "<% campaign %>"
 locations:
 <% location ? location : ' - '%>
 tags:

@@ -17,11 +17,13 @@ const affinity = result.Affinity.value;
 const job = result.Job.value;
 const gender = result.Gender.value;
 const race = result.Race.value;
+const campaign = result.Campaign.value || "";
 const portrait = result.Portrait.value || "portrait.jpg";
 const tags = [
     race && `race/${toCamelCase(race)}`,
     affinity && `affinity/${toCamelCase(affinity)}`,
-    job && `job/${toCamelCase(job)}`
+    job && `job/${toCamelCase(job)}`,
+    campaign && `campaign/${toCamelCase(campaign)}`
 ].filter(Boolean).map(v => ` - ${v}`).join("\n") || " - ";
 
 // Apply icon to note
@@ -39,6 +41,7 @@ new Notice().noticeEl.innerHTML = `<span style="color: green; font-weight: bold;
 -%>
 ---
 type: npc
+campaign: "<% campaign %>"
 locations:
   - <% location ? `"[[${location}]]"` : " -"%>
 tags:
