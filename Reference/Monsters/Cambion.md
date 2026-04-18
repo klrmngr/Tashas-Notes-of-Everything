@@ -1,0 +1,103 @@
+---
+type: pc
+race: "Fiend"
+class:
+ - "Cambion"
+subClass:
+ - "CR 5"
+cover: "Cambion.png"
+campaign:
+locations:
+tags:
+  - race/fiend
+  - affinity/hostile
+  - type/fiend
+  - size/medium
+  - cr/5
+  - source/mm
+---
+###### Cambion
+:FasPerson: Enemy &nbsp; | &nbsp; :FasBook: Monster Manual
+___
+
+> [!infobox|no-t right]
+> ![[Cambion.png]]
+> ###### Details:
+> | Type | Stat |
+> | ---- | ---- |
+> | :FasCrown: CR | 5 (1,800 XP) |
+> | :RiSwordFill: Type | Medium Fiend |
+> | :FasRulerVertical: Size | Medium |
+> | :FasScaleBalanced: Alignment | Lawful Neutral Chaotic Evil |
+> | :FasShield: AC | 19 (scale mail) |
+> | :FasHeart: HP | 82 (11d8 + 33) |
+> | :FasUserGroup: Race | Fiend |
+> | :FasBook: Source | Monster Manual |
+
+---
+
+### Stat Block
+
+| | STR | DEX | CON | INT | WIS | CHA |
+|---|---|---|---|---|---|---|
+| **Score** | 18 | 18 | 16 | 14 | 12 | 16 |
+| **Mod** | +4 | +4 | +3 | +2 | +1 | +3 |
+
+**Speed:** 30 ft., fly 60 ft. &nbsp;|&nbsp; **Senses:** darkvision 60 ft., passive Perception 14
+**Languages:** Abyssal, Common, Infernal
+**Saving Throws:** Str +7, Con +6, Int +5, Cha +6
+**Skills:** Deception +6, Intimidation +6, Perception +4, Stealth +7
+**Damage Resistances:** cold; fire; lightning; poison; bludgeoning, piercing, slashing from nonmagical attacks
+
+---
+
+### Traits
+
+**Fiendish Blessing.** The AC of the cambion includes its Charisma bonus.
+
+
+---
+
+### Actions
+
+**Multiattack.** The cambion makes two melee attacks or uses its Fire Ray twice.
+
+**Spear.** Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 7 (1d6 + 4) piercing damage, or 8 (1d8 + 4) piercing damage if used with two hands to make a melee attack, plus 3 (1d6) fire damage.
+
+**Fire Ray.** Ranged Spell Attack: +7 to hit, range 120 ft., one target. *Hit:* 10 (3d6) fire damage.
+
+**Fiendish Charm.** One humanoid the cambion can see within 30 feet of it must succeed on a DC 14 Wisdom saving throw or be magically charmed for 1 day. The charmed target obeys the cambion's spoken commands. If the target suffers any harm from the cambion or another creature or receives a suicidal command from the cambion, the target can repeat the saving throw, ending the effect on itself on a success. If a target's saving throw is successful, or if the effect ends for it, the creature is immune to the cambion's Fiendish Charm for the next 24 hours.
+
+
+---
+
+> [!column|flex 3]
+>> [!important]- QUESTS:
+>> ```base
+>> properties:
+>>   file.name:
+>>     displayName: Name
+>> views:
+>>   - type: table
+>>     name: Name
+>>     filters:
+>>       and:
+>>         - file.inFolder("Compendium/Party/Quests")
+>>         - file.hasLink(this.file)
+>>     order:
+>>       - file.name
+>> ```
+>
+>> [!note]- HISTORY
+>> ```base
+>> properties:
+>>   file.name:
+>>     displayName: Name
+>> views:
+>>   - type: table
+>>     name: Session Notes
+>>     filters:
+>>       and:
+>>         - file.inFolder("Session Notes")
+>>         - file.hasLink(this.file)
+>> ```

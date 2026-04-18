@@ -1,0 +1,102 @@
+---
+type: pc
+race: "Ooze"
+class:
+ - "Gelatinous Cube"
+subClass:
+ - "CR 2"
+cover: "Gelatinous Cube.png"
+campaign:
+locations:
+tags:
+  - race/ooze
+  - affinity/hostile
+  - type/ooze
+  - size/large
+  - cr/2
+  - source/xmm
+---
+###### Gelatinous Cube
+:FasPerson: Enemy &nbsp; | &nbsp; :FasBook: XMM
+___
+
+> [!infobox|no-t right]
+> ![[Gelatinous Cube.png]]
+> ###### Details:
+> | Type | Stat |
+> | ---- | ---- |
+> | :FasCrown: CR | 2 (450 XP) |
+> | :RiSwordFill: Type | Large Ooze |
+> | :FasRulerVertical: Size | Large |
+> | :FasScaleBalanced: Alignment | Unaligned |
+> | :FasShield: AC | 6 |
+> | :FasHeart: HP | 63 (6d10 + 30) |
+> | :FasUserGroup: Race | Ooze |
+> | :FasBook: Source | XMM |
+
+---
+
+### Stat Block
+
+| | STR | DEX | CON | INT | WIS | CHA |
+|---|---|---|---|---|---|---|
+| **Score** | 14 | 3 | 20 | 1 | 6 | 1 |
+| **Mod** | +2 | -4 | +5 | -5 | -2 | -5 |
+
+**Speed:** 15 ft. &nbsp;|&nbsp; **Senses:** Blindsight 60 ft., passive Perception 8
+**Languages:** —
+**Damage Immunities:** acid
+**Condition Immunities:** blinded; charmed; deafened; exhaustion; frightened; prone
+
+---
+
+### Traits
+
+**Ooze Cube.** The cube fills its entire space and is transparent. Other creatures can enter that space, but a creature that does so is subjected to the cube's Engulf and has Disadvantage on the saving throw.
+Creatures inside the cube have Total Cover, and the cube can hold one Large creature or up to four Medium or Small creatures inside itself at a time.
+As an action, a creature within 5 feet of the cube can pull a creature or an object out of the cube by succeeding on a DC 12 Strength (Athletics) check, and the puller takes 10 (3d6) Acid damage.
+
+**Transparent.** Even when the cube is in plain sight, a creature must succeed on a DC 15 Wisdom (Perception) check to notice the cube if the creature hasn't witnessed the cube move or otherwise act.
+
+
+---
+
+### Actions
+
+**Pseudopod.** m +4, reach 5 ft. *Hit:* 12 (3d6 + 2) Acid damage.
+
+**Engulf.** The cube moves up to its Speed without provoking Opportunity Attacks. The cube can move through the spaces of Large or smaller creatures if it has room inside itself to contain them (see the Ooze Cube trait). dex DC 12, each creature whose space the cube enters for the first time during this move.  10 (3d6) Acid damage, and the target is engulfed. An engulfed target is suffocating, can't cast spells with a Verbal component, has the Restrained condition, and takes 10 (3d6) Acid damage at the start of each of the cube's turns. When the cube moves, the engulfed target moves with it. An engulfed target can try to escape by taking an action to make a DC 12 Strength (Athletics) check. On a successful check, the target escapes and enters the nearest unoccupied space.  Half damage, and the target moves to an unoccupied space within 5 feet of the cube. If there is no unoccupied space, the target fails the save instead.
+
+
+---
+
+> [!column|flex 3]
+>> [!important]- QUESTS:
+>> ```base
+>> properties:
+>>   file.name:
+>>     displayName: Name
+>> views:
+>>   - type: table
+>>     name: Name
+>>     filters:
+>>       and:
+>>         - file.inFolder("Compendium/Party/Quests")
+>>         - file.hasLink(this.file)
+>>     order:
+>>       - file.name
+>> ```
+>
+>> [!note]- HISTORY
+>> ```base
+>> properties:
+>>   file.name:
+>>     displayName: Name
+>> views:
+>>   - type: table
+>>     name: Session Notes
+>>     filters:
+>>       and:
+>>         - file.inFolder("Session Notes")
+>>         - file.hasLink(this.file)
+>> ```

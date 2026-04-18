@@ -1,0 +1,136 @@
+---
+type: pc
+race: "Dragon (chromatic)"
+class:
+ - "Red Greatwyrm"
+subClass:
+ - "CR 27"
+cover: "Red Greatwyrm.png"
+campaign:
+locations:
+tags:
+  - race/chromatic
+  - affinity/hostile
+  - type/dragon
+  - size/gargantuan
+  - cr/27
+  - source/ftd
+---
+###### Red Greatwyrm
+:FasPerson: Enemy &nbsp; | &nbsp; :FasBook: Fizban's Treasury of Dragons
+___
+
+> [!infobox|no-t right]
+> ![[Red Greatwyrm.png]]
+> ###### Details:
+> | Type | Stat |
+> | ---- | ---- |
+> | :FasCrown: CR | 27 (105,000 XP) |
+> | :RiSwordFill: Type | Gargantuan Dragon (chromatic) |
+> | :FasRulerVertical: Size | Gargantuan |
+> | :FasScaleBalanced: Alignment | Chaotic Evil |
+> | :FasShield: AC | 22 (natural armor) |
+> | :FasHeart: HP | 533 (26d20 + 260) |
+> | :FasUserGroup: Race | Dragon (chromatic) |
+> | :FasBook: Source | Fizban's Treasury of Dragons |
+
+---
+
+### Stat Block
+
+| | STR | DEX | CON | INT | WIS | CHA |
+|---|---|---|---|---|---|---|
+| **Score** | 30 | 14 | 30 | 21 | 20 | 26 |
+| **Mod** | +10 | +2 | +10 | +5 | +5 | +8 |
+
+**Speed:** 60 ft., burrow 60 ft., fly 120 ft., swim 60 ft. &nbsp;|&nbsp; **Senses:** truesight 120 ft., passive Perception 31
+**Languages:** Common, Draconic
+**Saving Throws:** Dex +10, Con +18, Wis +13, Cha +16
+**Skills:** Intimidation +16, Perception +21, Stealth +10
+**Damage Immunities:** fire
+**Condition Immunities:** charmed; frightened; poisoned
+
+---
+
+### Traits
+
+**Chromatic Awakening (Recharges after a Short or Long Rest).** If the greatwyrm would be reduced to 0 hit points, its current hit point total instead resets to 425 hit points, it recharges its Breath Weapon, and it regains any expended uses of Legendary Resistance. Additionally, the greatwyrm can now use the options in the "Mythic Actions" section for 1 hour. Award a party an additional 105,000 XP (210,000 XP total) for defeating the greatwyrm after its Chromatic Awakening activates.
+
+**Legendary Resistance (4/Day).** If the greatwyrm fails a saving throw, it can choose to succeed instead.
+
+**Unusual Nature.** The greatwyrm doesn't require food or drink.
+
+
+---
+
+### Actions
+
+**Multiattack.** The greatwyrm makes one Bite attack and two Claw attacks.
+
+**Bite.** Melee Weapon Attack: +18 to hit, reach 15 ft., one target. *Hit:* 21 (2d10 + 10) piercing damage plus 13 (2d12) force damage.
+
+**Claw.** Melee Weapon Attack: +18 to hit, reach 10 ft., one target. *Hit:* 19 (2d8 + 10) slashing damage. If the target is a Huge or smaller creature, it is grappled (escape DC 20) and is restrained until this grapple ends. The greatwyrm can have only one creature grappled this way at a time.
+
+**Tail.** Melee Weapon Attack: +18 to hit, reach 20 ft., one target. *Hit:* 19 (2d8 + 10) bludgeoning damage. If the target is a creature, it must succeed on a DC 26 Strength saving throw or be knocked prone.
+
+**Breath Weapon (Recharge 5–6).** The greatwyrm exhales a blast of energy in a 300-foot cone. Each creature in that area must make a DC 26 Dexterity saving throw. On a failed save, the creature takes 78 (12d12) fire damage. On a successful save, the creature takes half as much damage.
+
+
+---
+
+### Legendary Actions
+
+### 
+
+**Attack.** The greatwyrm makes one Claw or Tail attack.
+
+**Wing Attack (Costs 2 Actions).** The greatwyrm beats its wings. Each creature within 30 feet of it must succeed on a DC 26 Dexterity saving throw or take 17 (2d6 + 10) bludgeoning damage and be knocked prone. The greatwyrm can then fly up to half its flying speed.
+
+**Arcane Spear (Costs 3 Actions).** The greatwyrm creates four spears of magical force. Each spear hits a creature of the greatwyrm's choice it can see within 120 feet of it, dealing 12 (1d8 + 8) force damage to its target, then disappears.
+
+
+---
+
+### Mythic Actions
+
+If the greatwyrm's Chromatic Awakening trait has activated in the last hour, it can use the options below as legendary actions.
+
+### 
+
+**Bite.** The greatwyrm makes one Bite attack.
+
+**Chromatic Flare (Costs 2 Actions).** The greatwyrm flares with elemental energy. Each creature in a 60-foot-radius sphere centered on the greatwyrm must succeed on a DC 26 Dexterity saving throw or take 22 (5d8) fire damage.
+
+
+---
+
+> [!column|flex 3]
+>> [!important]- QUESTS:
+>> ```base
+>> properties:
+>>   file.name:
+>>     displayName: Name
+>> views:
+>>   - type: table
+>>     name: Name
+>>     filters:
+>>       and:
+>>         - file.inFolder("Compendium/Party/Quests")
+>>         - file.hasLink(this.file)
+>>     order:
+>>       - file.name
+>> ```
+>
+>> [!note]- HISTORY
+>> ```base
+>> properties:
+>>   file.name:
+>>     displayName: Name
+>> views:
+>>   - type: table
+>>     name: Session Notes
+>>     filters:
+>>       and:
+>>         - file.inFolder("Session Notes")
+>>         - file.hasLink(this.file)
+>> ```

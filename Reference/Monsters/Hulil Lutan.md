@@ -1,0 +1,80 @@
+---
+type: pc
+race: "Creature"
+class:
+ - "Hulil Lutan"
+subClass:
+ - "CR —"
+cover: "Hulil Lutan.png"
+campaign:
+locations:
+tags:
+  - race/creature
+  - affinity/hostile
+  - type/creature
+  - size/medium
+  - cr/—
+  - source/egw
+---
+###### Hulil Lutan
+:FasPerson: Enemy &nbsp; | &nbsp; :FasBook: Explorer's Guide to Wildemount
+___
+
+> [!infobox|no-t right]
+> ![[Hulil Lutan.png]]
+> ###### Details:
+> | Type | Stat |
+> | ---- | ---- |
+> | :FasCrown: CR | — (— XP) |
+> | :RiSwordFill: Type | Medium Creature |
+> | :FasRulerVertical: Size | Medium |
+> | :FasScaleBalanced: Alignment | Neutral Evil |
+> | :FasShield: AC | — |
+> | :FasHeart: HP | — |
+> | :FasUserGroup: Race | Creature |
+> | :FasBook: Source | Explorer's Guide to Wildemount |
+
+---
+
+### Stat Block
+
+| | STR | DEX | CON | INT | WIS | CHA |
+|---|---|---|---|---|---|---|
+| **Score** | 10 | 10 | 10 | 10 | 10 | 10 |
+| **Mod** | +0 | +0 | +0 | +0 | +0 | +0 |
+
+**Speed:** 15 ft. &nbsp;|&nbsp; **Senses:** —
+**Languages:** —
+
+---
+
+> [!column|flex 3]
+>> [!important]- QUESTS:
+>> ```base
+>> properties:
+>>   file.name:
+>>     displayName: Name
+>> views:
+>>   - type: table
+>>     name: Name
+>>     filters:
+>>       and:
+>>         - file.inFolder("Compendium/Party/Quests")
+>>         - file.hasLink(this.file)
+>>     order:
+>>       - file.name
+>> ```
+>
+>> [!note]- HISTORY
+>> ```base
+>> properties:
+>>   file.name:
+>>     displayName: Name
+>> views:
+>>   - type: table
+>>     name: Session Notes
+>>     filters:
+>>       and:
+>>         - file.inFolder("Session Notes")
+>>         - file.hasLink(this.file)
+>> ```
