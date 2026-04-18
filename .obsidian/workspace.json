@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INDEX.md",
+                "file": "Compendium/Enemies/Chain Devil.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "INDEX"
+              "title": "Chain Devil"
             }
           }
         ]
@@ -81,7 +81,7 @@
       {
         "id": "36fb3699cc5e9295",
         "type": "tabs",
-        "dimension": 21.982758620689655,
+        "dimension": 64.352856109906,
         "children": [
           {
             "id": "34783b92fcf002b0",
@@ -98,7 +98,7 @@
       {
         "id": "1f6fc3dcaa6b4b26",
         "type": "tabs",
-        "dimension": 78.01724137931035,
+        "dimension": 35.64714389009399,
         "children": [
           {
             "id": "37992ec5383e3e3d",
@@ -121,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#location/ship",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -151,11 +151,12 @@
               "title": "Backlinks for INDEX"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 363.5
+    "width": 612.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,51 +169,51 @@
   },
   "active": "e273018339819fa1",
   "lastOpenFiles": [
-    "Assets/Images/header.png",
-    "Assets/Images/session.png",
-    "Assets/Images/quest.png",
-    "Assets/Images/portrait.jpg",
-    "Assets/Images/embed.jpg",
-    "Assets/Images/compendium.jpg",
-    "Assets/Images/banner.jpg",
-    "Assets/Templates/CONTINENT.md",
-    "Assets/Templates/LANDMARK.md",
-    "INDEX.md",
-    "Assets/Templates/PLAYER.md",
-    "Compendium/Party/Player Characters/Tilda Rosesong.md",
-    "Compendium/Party/Player Characters/Moira Belkas.md",
-    "Compendium/Party/Player Characters/Kingston Yashkar.md",
-    "Compendium/Party/Player Characters/Alaric Waycrest.md",
-    "Assets/Templates/REALM.md",
-    "Compendium/Party/Player Characters/length.md",
-    "Compendium/Party/Player Characters/fsdfsdfsdfsdf.md",
-    "Assets/Templates/PROVINCE.md",
-    "Assets/Templates/LOCALE.md",
-    "Assets/Templates/GOD.md",
-    "Assets/Templates/EVENT.md",
-    "Assets/Templates/TERRITORY.md",
-    "Assets/Templates/STARTUP.md",
-    "Assets/Templates/QUEST.md",
-    "Assets/Templates/PLANE.md",
-    "Assets/Templates/ORGANIZATION.md",
-    "Assets/Templates/OBJECT.md",
-    "Assets/Templates/NPC.md",
-    "Assets/Templates/NOTE.md",
-    "Assets/Templates/MIGRATE.md",
-    "Compendium/NPC's/Eleidin Verlice.md",
-    "Assets/Images/Lore/organization-14-45-14.jpg",
-    "Assets/Images/Lore/organization-14-46-02.avif",
-    "Assets/Images/Lore/organization-14-45-38.png",
-    "Assets/Images/Lore/object-14-38-33.jpg",
-    "Compendium/Atlas/Material Plane/Toril/Faerûn/Western Heartlands/Sword Coast/Waterdeep/fsdfsdfs",
-    "Compendium/Atlas/qqqqqqqqqqqqqq",
-    "Compendium/Atlas/Material Plane/Toril/Faerûn/Western Heartlands/Sword Coast/Waterdeep/sdfsdfsdf",
-    "Compendium/Atlas/Material Plane/Toril/Faerûn/Western Heartlands/Sword Coast/Baldurs Gate/final loc",
-    "Compendium/Atlas/Material Plane/Toril/Faerûn/Western Heartlands/vbvbvbvb",
-    "Compendium/Atlas/qweqweqwe",
-    "Compendium/Atlas/asdfadsf",
-    "Compendium/Atlas/Material Plane/Toril/Faerûn/Western Heartlands/zzzzzzzzzzz",
-    "Compendium/Atlas/Material Plane/Toril/Faerûn/321231321",
-    "Compendium/Atlas/Material Plane/Toril/Ocean Local/asdfasdfasdf"
+    "Compendium/Enemies/Drow Lieutenant.md",
+    "Compendium/Enemies/Drow Navigator.md",
+    "Compendium/Enemies/The Drowned Eternal.md",
+    "Compendium/Enemies/Undead Merrow.md",
+    "Compendium/Enemies/Chain Devil.md",
+    "Session Notes/One Shots/THE DROWNED CROWN/Session 01.md",
+    "Compendium/Lore/Deities/Beshaba.md",
+    "Compendium/Enemies/Undead Merrow.md.tmp.575468.1776497303498",
+    "Compendium/Enemies/The Drowned Eternal.md.tmp.575468.1776497277961",
+    "Compendium/Enemies/Drow Lieutenant.md.tmp.575468.1776497269755",
+    "Compendium/Enemies/Drow Lieutenant.md.tmp.575468.1776497269058",
+    "Compendium/Enemies/Undead Merrow.md.tmp.575468.1776497267865",
+    "Compendium/Enemies/Undead Merrow.md.tmp.575468.1776497267035",
+    "Compendium/Enemies/Undead Merrow.md.tmp.575468.1776497266289",
+    "Compendium/Lore/Organizations/Black Fingers.md",
+    "Compendium/Enemies/Merrow Skeleton.md",
+    "Assets/Images/Enemies/Drow Lieutenant.png",
+    "Assets/Images/Enemies/Undead Merrow.png",
+    "Compendium/Enemies/The Drowned Eternal.md.tmp.575468.1776497070154",
+    "Compendium/Enemies/Drow Navigator.md.tmp.575468.1776497069506",
+    "Compendium/Enemies/Drow Lieutenant.md.tmp.575468.1776497068443",
+    "Compendium/Lore/Organizations/Fellows of Free Fate.md",
+    "Compendium/Atlas/Material Plane/ONESHOTS/The Drowned Crown/Tomb of Sand/Tomb of Sand.md",
+    "Compendium/Atlas/Material Plane/ONESHOTS/The Drowned Crown/Elven Harbour/Elven Harbour.md",
+    "Compendium/Atlas/Material Plane/ONESHOTS/The Drowned Crown/Drow Warship/Drow Warship.md",
+    "Compendium/Atlas/Material Plane/ONESHOTS/The Drowned Crown/Ancient Stepwell/Ancient Stepwell.md",
+    "Assets/Images/Enemies/Chain Devil.png",
+    "Assets/Images/Enemies/Drow Lieutennant.png",
+    "Assets/Images/Location/westernHeartlands.jpg",
+    "Assets/Images/Location/waterdeep.jpg",
+    "Assets/Images/Location/toril.jpg",
+    "Assets/Images/Location/swordCoast.jpg",
+    "Assets/Images/Location/sorcSundries.jpg",
+    "Assets/Images/Location/materialPlane.avif",
+    "Compendium/NPC's/The Drowned Eternal.md",
+    "Compendium/NPC's/Merrow Skeleton.md",
+    "Compendium/NPC's/Drow Lieutenant.md",
+    "Compendium/NPC's/Drow Navigator.md",
+    "Compendium/Atlas/Material Plane/Material Plane.md",
+    "Compendium/Atlas/Material Plane/ONESHOTS/Untitled.md",
+    "Compendium/Atlas/Material Plane/Toril/Faerûn/Faerûn.md",
+    "Compendium/Lore/Deities/Tymora.md",
+    "Session Notes/Campaigns/campaignname.md",
+    "Compendium/Party/Quests/The Drowned Crown.md",
+    "Compendium/Party/Quests/The Delivery.md",
+    "Compendium/Party/Quests/Take Five.md"
   ]
 }

@@ -69,6 +69,16 @@
           }
         },
         {
+          "name": "Campaign",
+          "label": "Campaign:",
+          "description": "",
+          "isRequired": false,
+          "input": {
+            "type": "text",
+            "hidden": false
+          }
+        },
+        {
           "name": "Portrait",
           "label": "",
           "description": "",
@@ -136,14 +146,12 @@
           "name": "Banner",
           "label": "",
           "description": "",
+          "isRequired": false,
           "input": {
             "type": "image",
-            "allowUnknownValues": false,
-            "hidden": false,
             "filenameTemplate": "continent-{{time}}",
             "saveLocation": "Assets/Images/Location"
-          },
-          "isRequired": false
+          }
         }
       ],
       "version": "1"
@@ -444,6 +452,36 @@
           "isRequired": true,
           "input": {
             "type": "date",
+            "hidden": false
+          }
+        },
+        {
+          "name": "Type",
+          "label": "Type:",
+          "description": "",
+          "isRequired": true,
+          "input": {
+            "type": "select",
+            "source": "fixed",
+            "options": [
+              {
+                "value": "Campaign",
+                "label": "Campaign"
+              },
+              {
+                "value": "One Shot",
+                "label": "One Shot"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Campaign",
+          "label": "Campaign / One Shot Name:",
+          "description": "",
+          "isRequired": true,
+          "input": {
+            "type": "text",
             "hidden": false
           }
         },
