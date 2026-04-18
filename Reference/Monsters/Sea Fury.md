@@ -81,7 +81,7 @@ ___
 
 **Fearsome Apparition (Costs 2 Actions).** The sea fury conjures an apparition of one of its dead sisters, which appears in an unoccupied space the sea fury can see within 30 feet of it. Enemies of the sea fury that can see the apparition must succeed on a DC 16 Wisdom saving throw or be frightened of it until it vanishes at the end of the sea fury's next turn.
 
-**Conjure Snakes (Costs 3 Actions).** The sea fury disgorges a swarm of poisonous snakes, which occupies the same space as the sea fury, acts on its own initiative count, and attacks as directed by the sea fury. The sea fury can control up to three of these swarms at a time.
+**Conjure Snakes (Costs 3 Actions).** The sea fury disgorges a [[Swarm Of Poisonous Snakes]], which occupies the same space as the sea fury, acts on its own initiative count, and attacks as directed by the sea fury. The sea fury can control up to three of these swarms at a time.
 
 
 ---

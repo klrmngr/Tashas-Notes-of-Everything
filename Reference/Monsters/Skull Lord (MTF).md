@@ -82,7 +82,7 @@ ___
 
 **Move.** The skull lord moves up to its speed without provoking opportunity attacks.
 
-**Summon Undead (Costs 3 Actions).** Up to five skeletons or zombies appear in unoccupied spaces within 30 feet of the skull lord and remain until destroyed. Undead summoned in this way roll initiative and act in the next available turn. The skull lord can have up to five undead summoned by this ability at a time.
+**Summon Undead (Costs 3 Actions).** Up to five [[Skeleton|skeletons]] or [[Zombie|zombies]] appear in unoccupied spaces within 30 feet of the skull lord and remain until destroyed. Undead summoned in this way roll initiative and act in the next available turn. The skull lord can have up to five undead summoned by this ability at a time.
 
 
 ---

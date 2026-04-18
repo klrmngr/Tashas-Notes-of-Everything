@@ -67,7 +67,7 @@ ___
 
 **Tongue Lash.** Melee Weapon Attack: +6 to hit, reach 20 ft., one target. *Hit:* 10 (1d12 + 4) bludgeoning damage.
 
-**Siphon Life (Recharge 4–6).** The nergaliid magically draws the life from a humanoid it can see within 40 feet of it. The target must make a DC 15 Wisdom saving throw. An incapacitated target fails the save automatically. On a failed save, the creature takes 10 (3d6) psychic damage, and the nergaliid gains temporary hit points equal to the damage taken. On a successful save, the target takes half as much damage, and the nergaliid doesn't gain temporary hit points. If this damage kills the target, its body rises at the end of the nergaliid's current turn as a husk zombie (see earlier in this chapter).
+**Siphon Life (Recharge 4–6).** The nergaliid magically draws the life from a humanoid it can see within 40 feet of it. The target must make a DC 15 Wisdom saving throw. An incapacitated target fails the save automatically. On a failed save, the creature takes 10 (3d6) psychic damage, and the nergaliid gains temporary hit points equal to the damage taken. On a successful save, the target takes half as much damage, and the nergaliid doesn't gain temporary hit points. If this damage kills the target, its body rises at the end of the nergaliid's current turn as a [[Husk Zombie]] (see earlier in this chapter).
 
 
 ---

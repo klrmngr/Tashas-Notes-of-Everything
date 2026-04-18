@@ -52,7 +52,7 @@ ___
 
 ### Traits
 
-**Animal Companions.** Vellin is accompanied by Akela (wolf with 18 hit points). Vellin can mount or dismount Akela using 5 feet of movement. While mounted, Vellin can order Akela to Dash, Disengage, and Dodge. In addition, Vellin has an owl companion with 3 hit points. On Vellin's turn, the owl can perform a flyby on a creature of Vellin's choice. The next attack that Vellin makes against that creature has advantage.
+**Animal Companions.** Vellin is accompanied by Akela ([[Wolf]] with 18 hit points). Vellin can mount or dismount Akela using 5 feet of movement. While mounted, Vellin can order Akela to Dash, Disengage, and Dodge. In addition, Vellin has an [[Owl]] companion with 3 hit points. On Vellin's turn, the owl can perform a flyby on a creature of Vellin's choice. The next attack that Vellin makes against that creature has advantage.
 
 **Brave.** Vellin has advantage on saving throws against being frightened.
 

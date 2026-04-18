@@ -102,7 +102,7 @@ If the aspect's Platinum Brilliance trait has activated in the last hour, he can
 
 ### 
 
-**Celestial Shield (Costs 2 Actions).** The aspect manifests seven spectral ancient gold dragons around himself that protect him; he gains 77 temporary hit points until the start of his next turn.
+**Celestial Shield (Costs 2 Actions).** The aspect manifests seven spectral [[Ancient Gold Dragon|ancient gold dragons]] around himself that protect him; he gains 77 temporary hit points until the start of his next turn.
 
 **Celestial Lances (Costs 3 Actions).** The aspect conjures four enormous lances of magical force that plummet to the ground at four different points he can see within 150 feet of him and then disappear. Each creature in a 20-foot-radius, 100-foot-high cylinder centered on each point must succeed on a DC 27 Dexterity saving throw or take 24 (7d6) force damage. A creature in the area of more than one lance is affected only once.
 

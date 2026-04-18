@@ -94,7 +94,7 @@ ___
 
 **Conjure Hellfire (Costs 2 Actions).** Fierna chooses a point she can see within 150 feet of her. All creatures in a 20-foot-radius sphere centered on that point must make a DC 25 Dexterity saving throw, taking 28 (8d6) fire damage on a failed save, or half as much damage on a successful one.
 
-**Call Underling (Costs 3 Actions).** Fierna summons an allied spined devil in an unoccupied space that she can see.
+**Call Underling (Costs 3 Actions).** Fierna summons an allied [[Spined Devil]] in an unoccupied space that she can see.
 
 
 ---

@@ -53,7 +53,7 @@ ___
 
 **Raxivort's Blessing.** When the xvart reduces an enemy to 0 hit points, the xvart gains 4 temporary hit points.
 
-**Raxivort's Tongue.** The xvart can communicate with ordinary bats and rats, as well as giant bats and giant rats.
+**Raxivort's Tongue.** The xvart can communicate with ordinary [[Bat|bats]] and [[Rat|rats]], as well as [[Giant Bat|giant bats]] and [[Giant Rat|giant rats]].
 
 
 ---

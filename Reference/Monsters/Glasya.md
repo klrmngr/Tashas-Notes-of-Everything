@@ -91,7 +91,7 @@ ___
 
 **Disorient (Costs 2 Actions).** Glasya casts Confusion (30-foot-radius, spell save DC 25), but only lasting until the end of Glasya's next turn.
 
-**Call Underling (Costs 3 Actions).** Glasya summons an allied erinyes in an unoccupied space that she can see.
+**Call Underling (Costs 3 Actions).** Glasya summons an allied [[Erinyes]] in an unoccupied space that she can see.
 
 
 ---

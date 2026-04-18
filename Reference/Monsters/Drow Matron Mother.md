@@ -79,7 +79,7 @@ ___
 
 **Lolth's Fickle Favor.** The drow bestows the Spider Queen's blessing on one ally she can see within 30 feet of her. The ally takes 7 (2d6) psychic damage but has advantage on the next attack roll it makes before the end of its next turn.
 
-**Summon Servant (1/Day).** The drow magically summons a glabrezu or a yochlol. The summoned creature appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 10 minutes, until it or its summoner dies, or until its summoner dismisses it as an action.
+**Summon Servant (1/Day).** The drow magically summons a [[Glabrezu]] or a [[Yochlol]]. The summoned creature appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 10 minutes, until it or its summoner dies, or until its summoner dismisses it as an action.
 
 
 ---

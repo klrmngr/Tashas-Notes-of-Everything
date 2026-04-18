@@ -61,7 +61,7 @@ ___
 
 **Slam.** m +3, reach 5 ft. *Hit:* 6 (2d4 + 1) Bludgeoning damage plus 5 (2d4) Poison damage.
 
-**Animating Spores (3/Day).** The myconid releases spores at a Medium or Small corpse within 5 feet of it that wasn't a Construct or an Undead. In 24 hours, the corpse rises as a Myconid Spore Servant. The corpse stays animate for 1d4 + 1 weeks or until destroyed, and it can't be animated again in this way.
+**Animating Spores (3/Day).** The myconid releases spores at a Medium or Small corpse within 5 feet of it that wasn't a Construct or an Undead. In 24 hours, the corpse rises as a [[Myconid Spore Servant]]. The corpse stays animate for 1d4 + 1 weeks or until destroyed, and it can't be animated again in this way.
 
 **Pacifying Spores.** con DC 12, one creature the myconid can see within 10 feet.  The target has the Stunned condition and repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically.
 

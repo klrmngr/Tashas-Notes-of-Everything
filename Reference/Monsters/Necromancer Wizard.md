@@ -62,7 +62,7 @@ ___
 
 ### Bonus Actions
 
-**Summon Undead (1/Day).** The necromancer magically summons five skeletons or zombies. The summoned creatures appear in unoccupied spaces within 60 feet of the necromancer, whom they obey. They take their turns immediately after the necromancer. Each lasts for 1 hour, until it or the necromancer dies, or until the necromancer dismisses it as a bonus action.
+**Summon Undead (1/Day).** The necromancer magically summons five [[Skeleton|skeletons]] or [[Zombie|zombies]]. The summoned creatures appear in unoccupied spaces within 60 feet of the necromancer, whom they obey. They take their turns immediately after the necromancer. Each lasts for 1 hour, until it or the necromancer dies, or until the necromancer dismisses it as a bonus action.
 
 
 ---

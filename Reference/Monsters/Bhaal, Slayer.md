@@ -94,7 +94,7 @@ ___
 
 **Finish (Costs 2 Actions).** The slayer attacks a creature that has been marked by its Prey ability. If this attack hits and the creature has less than 40 hit points remaining after the attack, the creature is reduced to 0 hit points.
 
-**Ravager Form (Costs 3 Actions).** If the slayer has killed a creature of CR/level 5 or greater that it previously marked with its Prey ability in the last minute, it can transform into its ravager form. The form lasts until dawn (minimum 1 hour).
+**Ravager Form (Costs 3 Actions).** If the slayer has killed a creature of CR/level 5 or greater that it previously marked with its Prey ability in the last minute, it can transform into its [[Bhaal, Ravager|ravager form]]. The form lasts until dawn (minimum 1 hour).
 
 
 ---

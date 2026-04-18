@@ -76,7 +76,7 @@ ___
 
 **Starlight Step (3/Day).** The elf magically teleports up to 30 feet, along with anything it is wearing or carrying, to an unoccupied space it can see.
 
-**Summon Solar Dragon (1/Day).** The elf has a 50 percent chance of magically summoning a young solar dragon. A summoned dragon appears in an unoccupied space that the summoner can see, acts on its own initiative count, and is an ally of its summoner. It remains for 10 minutes, until it or its summoner dies, or until its summoner dismisses it as an action.
+**Summon Solar Dragon (1/Day).** The elf has a 50 percent chance of magically summoning a [[Young Solar Dragon]]. A summoned dragon appears in an unoccupied space that the summoner can see, acts on its own initiative count, and is an ally of its summoner. It remains for 10 minutes, until it or its summoner dies, or until its summoner dismisses it as an action.
 
 
 ---

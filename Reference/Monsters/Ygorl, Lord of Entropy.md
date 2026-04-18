@@ -72,7 +72,7 @@ ___
 
 **Entropic Touch.** Melee Weapon Attack: +14 to hit, reach 5 ft., one target. *Hit:* 16 (2d8 + 7) necrotic damage, and the target must succeed on a DC 22 Constitution saving throw or gain one level of exhaustion.
 
-**Summon Slaadi (1/Day).** Ygorl summons 1d4 + 1 death slaadi. A summoned slaad appears in an unoccupied space within 60 feet of Ygorl, acts as an ally of Ygorl, and can't summon other slaadi. It remains for 1 minute, until it or Ygorl dies, or until Ygorl dismisses it as an action.
+**Summon Slaadi (1/Day).** Ygorl summons 1d4 + 1 [[Death Slaad|death slaadi]]. A summoned slaad appears in an unoccupied space within 60 feet of Ygorl, acts as an ally of Ygorl, and can't summon other slaadi. It remains for 1 minute, until it or Ygorl dies, or until Ygorl dismisses it as an action.
 
 **Teleport.** Ygorl teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
 

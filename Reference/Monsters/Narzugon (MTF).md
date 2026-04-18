@@ -57,7 +57,7 @@ ___
 
 **Diabolical Sense.** The narzugon has advantage on Wisdom (Perception) checks made to perceive good-aligned creatures.
 
-**Infernal Tack.** The narzugon wears spurs that are part of infernal tack, which allow it to summon its nightmare companion.
+**Infernal Tack.** The narzugon wears spurs that are part of infernal tack, which allow it to summon its [[Nightmare]] companion.
 
 **Magic Resistance.** The narzugon has advantage on saving throws against spells and other magical effects.
 

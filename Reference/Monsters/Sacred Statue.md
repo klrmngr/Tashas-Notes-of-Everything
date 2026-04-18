@@ -44,7 +44,7 @@ ___
 | **Mod** | +4 | -1 | +4 | +2 | +4 | +3 |
 
 **Speed:** 25 ft. &nbsp;|&nbsp; **Senses:** darkvision 60 ft., passive Perception 14
-**Languages:** the languages the eidolon knew in life
+**Languages:** the languages the [[Eidolon]] knew in life
 **Saving Throws:** Wis +8
 **Damage Resistances:** acid; fire; lightning; bludgeoning, piercing, slashing from nonmagical attacks
 **Damage Immunities:** cold; necrotic; poison

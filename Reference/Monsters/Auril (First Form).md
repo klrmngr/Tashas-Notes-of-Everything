@@ -57,7 +57,7 @@ ___
 
 **Divine Being.** Auril can't be surprised and can't be changed into another form against her will.
 
-**Divine Rejuvenation.** When Auril drops to 0 hit points, her body turns to slush and melts away. Auril instantly reappears in her second form, in an unoccupied space within 60 feet of where her first form disappeared. Her initiative count doesn't change.
+**Divine Rejuvenation.** When Auril drops to 0 hit points, her body turns to slush and melts away. Auril instantly reappears in her [[Auril (second form)|second form]], in an unoccupied space within 60 feet of where her first form disappeared. Her initiative count doesn't change.
 
 **Legendary Resistance (2/Day in This Form).** If Auril fails a saving throw, she can choose to succeed instead.
 

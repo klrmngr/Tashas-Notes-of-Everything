@@ -54,7 +54,7 @@ ___
 
 ### Traits
 
-**Awakening of the Scion.** The cradle is a container for the scion of Memnor. When the cradle drops to 0 hit points, its body dissipates into cloud wisps. The scion instantly appears in the space the cradle occupied and uses the cradle's initiative count.
+**Awakening of the Scion.** The cradle is a container for the [[scion of Memnor]]. When the cradle drops to 0 hit points, its body dissipates into cloud wisps. The scion instantly appears in the space the cradle occupied and uses the cradle's initiative count.
 
 **Flyby.** The cradle doesn't provoke opportunity attacks when it flies out of an enemy's reach.
 

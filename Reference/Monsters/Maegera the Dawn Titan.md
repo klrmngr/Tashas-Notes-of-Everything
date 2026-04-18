@@ -84,7 +84,7 @@ ___
 
 **Smoke Cloud (Costs 2 Actions).** Maegera exhales a billowing cloud of hot smoke and embers that fills a 60 feet cube. Each creature in the area takes 11 (2d10) fire damage. The cloud lasts until the end of Maegera's next turn. Creatures completely in the cloud are blinded and can't be seen.
 
-**Create Fire Elemental (Costs 3 Actions).** Maegera's hit points are reduced by 50 as part of it separates and becomes a fire elemental with 102 hit points. The fire element appears in an unoccupied space within 15 feet of Maegera and acts on Maegera's initiative count. Maegera can't use this action if it has 50 hit points or fewer. The fire element obeys Maegera's commands and fights until destroyed.
+**Create Fire Elemental (Costs 3 Actions).** Maegera's hit points are reduced by 50 as part of it separates and becomes a [[Fire Elemental]] with 102 hit points. The fire element appears in an unoccupied space within 15 feet of Maegera and acts on Maegera's initiative count. Maegera can't use this action if it has 50 hit points or fewer. The fire element obeys Maegera's commands and fights until destroyed.
 
 
 ---

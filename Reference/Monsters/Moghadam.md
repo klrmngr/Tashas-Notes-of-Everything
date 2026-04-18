@@ -54,7 +54,7 @@ ___
 
 **Special Equipment.** Moghadam wields Ruinblade (see appendix C).
 
-**Artificial Mind.** Moghadam can manifest an artificial mind as a floating spectral image of a demilich's jeweled skull. Moghadam can communicate telepathically with this mind, send it up to 300 feet away from him, and see and hear through it.
+**Artificial Mind.** Moghadam can manifest an artificial mind as a floating spectral image of a [[Demilich]]'s jeweled skull. Moghadam can communicate telepathically with this mind, send it up to 300 feet away from him, and see and hear through it.
 
 **Infoportation (1/Day).** Moghadam can teleport himself into an unoccupied space next to his artificial mind.
 

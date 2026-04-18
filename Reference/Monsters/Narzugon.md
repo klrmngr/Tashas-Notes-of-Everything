@@ -55,7 +55,7 @@ ___
 
 ### Traits
 
-**Infernal Tack.** The narzugon wears spurs that are part of infernal tack, which allow it to summon its nightmare companion as an action.
+**Infernal Tack.** The narzugon wears spurs that are part of infernal tack, which allow it to summon its [[Nightmare]] companion as an action.
 
 **Magic Resistance.** The narzugon has advantage on saving throws against spells and other magical effects.
 
@@ -66,7 +66,7 @@ ___
 
 **Multiattack.** The narzugon makes three Hellfire Lance attacks. It also uses Infernal Command or Terrifying Command.
 
-**Hellfire Lance.** Melee Weapon Attack: +10 to hit, reach 10 ft., one target. *Hit:* 11 (1d12 + 5) piercing damage plus 16 (3d10) fire damage. If this damage kills a creature with a soul, the soul rises from the River Styx as a lemure in Avernus in 1d4 hours. If the creature isn't revived before then, only a wish spell or killing the lemure and casting true resurrection on the creature's original body can restore it to life. Constructs and devils are immune to this effect.
+**Hellfire Lance.** Melee Weapon Attack: +10 to hit, reach 10 ft., one target. *Hit:* 11 (1d12 + 5) piercing damage plus 16 (3d10) fire damage. If this damage kills a creature with a soul, the soul rises from the River Styx as a [[Lemure]] in Avernus in 1d4 hours. If the creature isn't revived before then, only a wish spell or killing the lemure and casting true resurrection on the creature's original body can restore it to life. Constructs and devils are immune to this effect.
 
 **Infernal Command.** Each ally of the narzugon within 60 feet of it can't be charmed or frightened until the end of the narzugon's next turn.
 

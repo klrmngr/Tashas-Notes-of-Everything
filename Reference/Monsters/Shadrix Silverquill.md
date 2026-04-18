@@ -79,7 +79,7 @@ ___
 
 **Shadow Slip (Costs 2 Actions).** Shadrix becomes an inky cloud of shadow and can move up to half his flying speed without provoking opportunity attacks, then resumes his true form. During this movement, he can move through creatures and objects as if they were 3. If he moves through a creature, it must succeed on a DC 21 Constitution saving throw or become blinded until the end of its next turn. If Shadrix ends this move inside an object, he takes 5 (1d10) force damage and is shunted to the nearest unoccupied space.
 
-**Flash of Inspiration (Costs 3 Actions).** Shadrix magically summons 1d4 inkling mascots in unoccupied spaces he can see within 60 feet of himself. The inklings obey his commands and take their turns immediately after his. While any of these inklings live, Shadrix has advantage on attack rolls and saving throws. These inklings disappear after 10 minutes, when Shadrix dies, or when he uses this action again.
+**Flash of Inspiration (Costs 3 Actions).** Shadrix magically summons 1d4 [[Inkling Mascot|inkling mascots]] in unoccupied spaces he can see within 60 feet of himself. The inklings obey his commands and take their turns immediately after his. While any of these inklings live, Shadrix has advantage on attack rolls and saving throws. These inklings disappear after 10 minutes, when Shadrix dies, or when he uses this action again.
 
 
 ---

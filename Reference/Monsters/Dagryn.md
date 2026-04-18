@@ -53,7 +53,7 @@ ___
 
 ### Traits
 
-**Draconic Transformation.** When Dagryn drops to 0 hit points, instead of falling unconscious, he transforms into his dragon form. He immediately gains all the statistics of an adult black dragon with the exception that his size is Medium, and has the stunned condition. At the start of his next turn, he grows to Large size, but remains stunned. At the start of his subsequent turn, Dagryn grows to Huge size and is no longer stunned. Dagryn remains in his dragon form for 24 hours whereupon he reverts to this stat block.
+**Draconic Transformation.** When Dagryn drops to 0 hit points, instead of falling unconscious, he transforms into his dragon form. He immediately gains all the statistics of an [[Adult Black Dragon]] with the exception that his size is Medium, and has the stunned condition. At the start of his next turn, he grows to Large size, but remains stunned. At the start of his subsequent turn, Dagryn grows to Huge size and is no longer stunned. Dagryn remains in his dragon form for 24 hours whereupon he reverts to this stat block.
 
 **Dwarven Resilience.** Dagryn has advantage on saving throws against poison, spells, and illusions, as well as to resist being charmed or paralyzed.
 

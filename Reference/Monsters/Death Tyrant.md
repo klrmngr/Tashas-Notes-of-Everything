@@ -55,7 +55,7 @@ ___
 ### Traits
 
 **Negative Energy Cone.** The death tyrant's central eye emits an invisible, magical 150-foot cone of negative energy. At the start of each of its turns, the tyrant decides which way the cone faces and whether the cone is active.
-Any creature in that area can't regain hit points. Any humanoid that dies there becomes a zombie under the tyrant's command. The dead humanoid retains its place in the initiative order and animates at the start of its next turn, provided that its body hasn't been completely destroyed.
+Any creature in that area can't regain hit points. Any humanoid that dies there becomes a [[Zombie]] under the tyrant's command. The dead humanoid retains its place in the initiative order and animates at the start of its next turn, provided that its body hasn't been completely destroyed.
 
 
 ---

@@ -76,7 +76,7 @@ ___
 
 ### Bonus Actions
 
-**Summon Hell Hounds.** Edwin magically summons three hell hounds. The summoned hell hounds appear in an unoccupied space within 60 feet of Edwin, and act as Edwin's allies. They remain for 10 minutes, until they or Edwin dies, or until Edwin dismisses them as an action.
+**Summon Hell Hounds.** Edwin magically summons three [[Hell Hound|hell hounds]]. The summoned hell hounds appear in an unoccupied space within 60 feet of Edwin, and act as Edwin's allies. They remain for 10 minutes, until they or Edwin dies, or until Edwin dismisses them as an action.
 
 
 ---

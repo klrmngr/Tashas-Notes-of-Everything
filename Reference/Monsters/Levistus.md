@@ -96,7 +96,7 @@ ___
 
 **Froststrike.** Levistus makes an Ice Bolt attack. On a hit, the target falls and has the prone condition.
 
-**Call Underling (Costs 3 Actions).** Levistus summons an allied ice devil in an unoccupied space that he can see.
+**Call Underling (Costs 3 Actions).** Levistus summons an allied [[Ice Devil]] in an unoccupied space that he can see.
 
 
 ---

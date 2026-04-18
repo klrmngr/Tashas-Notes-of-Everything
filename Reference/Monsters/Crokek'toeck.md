@@ -71,7 +71,7 @@ ___
 
 **Bite.** Melee Weapon Attack: +14 to hit, reach 15 ft., one target. *Hit:* 44 (10d6 + 9) piercing damage.
 
-**Disgorge Allies (Recharge 6).** Crokek'toeck opens its mouth and disgorges 1d4 barlguras, 3d6 gnolls led by 1 gnoll fang of Yeenoghu, 6d6 dretches, or 1d3 vrocks. Each creature it disgorges appears in an unoccupied space within 30 feet of Crokek'toeck's mouth, or the next closest unoccupied space.
+**Disgorge Allies (Recharge 6).** Crokek'toeck opens its mouth and disgorges 1d4 [[Barlgura|barlguras]], 3d6 [[Gnoll|gnolls]] led by 1 [[gnoll fang of Yeenoghu]], 6d6 [[Dretch|dretches]], or 1d3 [[Vrock|vrocks]]. Each creature it disgorges appears in an unoccupied space within 30 feet of Crokek'toeck's mouth, or the next closest unoccupied space.
 
 
 ---

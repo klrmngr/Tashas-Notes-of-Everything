@@ -72,7 +72,7 @@ ___
 
 **Wolf Bite.** Melee Weapon Attack: +16 to hit, reach 10 ft., one target. *Hit:* 16 (2d6 + 9) piercing damage.
 
-**Snakebite.** Melee Weapon Attack: +16 to hit, reach 15 ft., one creature. *Hit:* 12 (1d6 + 9) piercing damage, and the target must succeed on a DC 22 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target transforms into a manes if this reduces its hit point maximum to 0. This transformation can be ended only by a wish spell.
+**Snakebite.** Melee Weapon Attack: +16 to hit, reach 15 ft., one creature. *Hit:* 12 (1d6 + 9) piercing damage, and the target must succeed on a DC 22 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target transforms into a [[Manes]] if this reduces its hit point maximum to 0. This transformation can be ended only by a wish spell.
 
 
 ---

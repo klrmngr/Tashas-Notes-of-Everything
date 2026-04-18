@@ -60,7 +60,7 @@ ___
 
 ### Actions
 
-**Bite.** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. *Hit:* 12 (3d6 + 2) piercing damage. If the target is a creature, it must succeed on a DC 13 Constitution saving throw against disease or become poisoned. At the end of each long rest, the poisoned target can repeat the saving throw, ending the effect on itself on a success. If the target is reduced to 0 hit points while poisoned in this way, it dies and instantly transforms into a living manes. The transformation can be undone only by a wish spell.
+**Bite.** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. *Hit:* 12 (3d6 + 2) piercing damage. If the target is a creature, it must succeed on a DC 13 Constitution saving throw against disease or become poisoned. At the end of each long rest, the poisoned target can repeat the saving throw, ending the effect on itself on a success. If the target is reduced to 0 hit points while poisoned in this way, it dies and instantly transforms into a living [[Manes]]. The transformation can be undone only by a wish spell.
 
 
 ---

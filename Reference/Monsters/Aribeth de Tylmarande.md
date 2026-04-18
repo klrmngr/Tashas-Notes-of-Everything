@@ -57,11 +57,11 @@ ___
 
 **Magic Resistance.** Aribeth has advantage on saving throws against spells and other magical effects.
 
-**Nightmare.** Aribeth is accompanied by a nightmare. The nightmare allows Aribeth to use it as a mount.
+**Nightmare.** Aribeth is accompanied by a [[Nightmare]]. The nightmare allows Aribeth to use it as a mount.
 
 **Regeneration.** Aribeth regains 20 hit points at the start of her turn. If Aribeth takes radiant damage, this trait doesn't function at the start of Aribeth's next turn. Aribeth's body is destroyed only if she starts her turn with 0 hit points and doesn't regenerate.
 
-**Shadows.** Three shadows hide within the saddle of Aribeth's nightmare. These shadows only come out if there is a creature within 30 feet that is at 0 hit points. When that happens, a shadow emerges and attacks the creature in order to make it fail a death saving throw. It continues to do so until the creature is dead.
+**Shadows.** Three [[Shadow|shadows]] hide within the saddle of Aribeth's nightmare. These shadows only come out if there is a creature within 30 feet that is at 0 hit points. When that happens, a shadow emerges and attacks the creature in order to make it fail a death saving throw. It continues to do so until the creature is dead.
 
 **Sunlight Sensitivity.** While in sunlight, Aribeth has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 

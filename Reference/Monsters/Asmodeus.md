@@ -101,7 +101,7 @@ Asmodeus rolls (1d20 + 2), and if the result is higher than (10 + spell level), 
 
 **Strike (Costs 2 Actions).** Asmodeus makes a Ruby Rod attack.
 
-**Call Underling (Costs 3 Actions).** Asmodeus summons an allied pit fiend in an unoccupied space that he can see.
+**Call Underling (Costs 3 Actions).** Asmodeus summons an allied [[Pit Fiend]] in an unoccupied space that he can see.
 
 
 ---

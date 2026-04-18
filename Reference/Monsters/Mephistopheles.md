@@ -98,7 +98,7 @@ ___
 
 **Hellfire Storm (Costs 2 Actions).** Mephistopheles creates a rain of Hellfire at a point he can see within 150 feet. Each creature within a 20-foot-radius sphere centered on that point must make a DC 24 Dexterity saving throw. Targets take 38 (7d10) fire damage on a failed save, or half as much damage on a successful one.
 
-**Call Underling (Costs 3 Actions).** Mephistopheles summons an allied horned devil in an unoccupied space that he can see.
+**Call Underling (Costs 3 Actions).** Mephistopheles summons an allied [[Horned Devil]] in an unoccupied space that he can see.
 
 
 ---

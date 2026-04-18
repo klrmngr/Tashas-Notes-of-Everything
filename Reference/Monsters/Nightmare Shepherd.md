@@ -70,7 +70,7 @@ ___
 
 **Staff.** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. *Hit:* 11 (2d6 + 4) bludgeoning damage, or 13 (2d8 + 4) bludgeoning damage if used with two hands, plus 26 (4d12) psychic damage.
 
-**Herd the Underworld (Recharges after a Short or Long Rest).** The shepherd pulls twisted souls from the Underworld; 1d6 shadows (without Sunlight Weakness) arise in unoccupied spaces within 20 feet of the shepherd. The shadows act right after the shepherd on the same initiative count and fight until they're destroyed. They disappear when the shepherd dies.
+**Herd the Underworld (Recharges after a Short or Long Rest).** The shepherd pulls twisted souls from the Underworld; 1d6 [[Shadow|shadows]] (without Sunlight Weakness) arise in unoccupied spaces within 20 feet of the shepherd. The shadows act right after the shepherd on the same initiative count and fight until they're destroyed. They disappear when the shepherd dies.
 
 
 ---

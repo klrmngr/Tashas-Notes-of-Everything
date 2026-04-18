@@ -69,7 +69,7 @@ ___
 
 **Hurl Acid (Recharge 6).** Flimp hurls a vial of acid at a location within 60 feet. Every creature within 10 feet of the target location must succeed on a DC 16 Dexterity saving throw or take 21 (6d6) acid damage.
 
-**Summon Steel Defender (1/Day).** Flimp summons a metallic panther to aid him in combat. The panther has 24 hit points and is immune to poison damage and the poison and charmed conditions.
+**Summon Steel Defender (1/Day).** Flimp summons a [[Steel Defender|metallic panther]] to aid him in combat. The panther has 24 hit points and is immune to poison damage and the poison and charmed conditions.
 
 
 ---

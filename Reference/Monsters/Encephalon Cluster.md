@@ -65,7 +65,7 @@ ___
 
 **Slam.** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. *Hit:* 17 (2d10 + 6) bludgeoning damage plus 10 (3d6) psychic damage, and if the target is a creature, the target must succeed on a DC 18 Strength saving throw or have the prone condition. If this attack reduces the target to 0 hit points, the target immediately dies and is consumed by the cluster.
 
-**Spawn Progeny (Recharges after a Short or Long Rest).** The cluster bulges and spews 1d4 mature eggs. Each egg lands in an unoccupied space of the cluster's choice within 30 feet of itself and immediately transforms into an encephalon gemmule. The gemmules obey the cluster's commands and take their turns immediately after it.
+**Spawn Progeny (Recharges after a Short or Long Rest).** The cluster bulges and spews 1d4 mature eggs. Each egg lands in an unoccupied space of the cluster's choice within 30 feet of itself and immediately transforms into an [[Encephalon Gemmule]]. The gemmules obey the cluster's commands and take their turns immediately after it.
 
 
 ---

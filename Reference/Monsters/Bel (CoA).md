@@ -83,7 +83,7 @@ ___
 
 **Tactical Edge (Costs 2 Actions).** Roll a d6 for Bel. The number rolled on the die is subtracted from the next attack roll made against Bel or an ally of his choice within the next minute.
 
-**Summon Ice Devil (Costs 3 Actions).** Bel magically summons an ice devil with an ice spear (as described in the ice devil's entry in the Monster Manual). The ice devil appears in an unoccupied space within 60 feet of Bel, acts as Bel's ally, and can summon other devils if it has such power. The ice devil remains until Bel dies or until he dismisses it with an action.
+**Summon Ice Devil (Costs 3 Actions).** Bel magically summons an [[Ice Devil]] with an ice spear (as described in the ice devil's entry in the Monster Manual). The ice devil appears in an unoccupied space within 60 feet of Bel, acts as Bel's ally, and can summon other devils if it has such power. The ice devil remains until Bel dies or until he dismisses it with an action.
 
 
 ---

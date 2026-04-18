@@ -76,7 +76,7 @@ ___
 
 **Ice Spear.** Ranged Weapon Attack: +10 to hit, range 120 ft., one target. *Hit:* 36 (6d10 + 3) cold damage.
 
-**Summon Frost Horde (1/Day).** Cryonax summons two young white dragons or a frost giant with two yetis. The summoning costs Cryonax 50 hit points. The summoned creatures have maximum hit points and appear within 100 feet of Cryonax.
+**Summon Frost Horde (1/Day).** Cryonax summons two [[Young White Dragon|young white dragons]] or a [[Frost Giant]] with two [[Yeti|yetis]]. The summoning costs Cryonax 50 hit points. The summoned creatures have maximum hit points and appear within 100 feet of Cryonax.
 
 
 ---

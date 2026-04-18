@@ -100,7 +100,7 @@ ___
 
 **Insect Gorge (Costs 2 Actions).** Baalzebul disgorges a swarm of biting flies at a point he can see within 300 feet of himself. Each creature within a 20-foot-radius sphere centered on that point must make a DC 21 Constitution saving throw. A creature takes 44 (8d10) piercing damage on a failed save, or half as much damage on a successful one. The biting flies persist for 1 minute, or until Baalzebul uses this ability again. Creatures that enter the flies' area or end their turn inside it must repeat the saving throw.
 
-**Call Underling (Costs 3 Actions).** Baalzebul summons an allied bone devil in an unoccupied space that he can see.
+**Call Underling (Costs 3 Actions).** Baalzebul summons an allied [[Bone Devil]] in an unoccupied space that he can see.
 
 
 ---

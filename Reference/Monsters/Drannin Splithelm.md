@@ -62,7 +62,7 @@ ___
 
 **Second Wind (Recharges after a Short or Long Rest).** Drannin can use a bonus action to regain 16 (1d10 + 11) hit points.
 
-**Special Equipment.** Drannin wears a control amulet for his shield guardian (see the Monster Manual) and a ring of cold resistance. He also carries a potion of frost giant strength.
+**Special Equipment.** Drannin wears a control amulet for his [[Shield Guardian]] (see the Monster Manual) and a ring of cold resistance. He also carries a potion of frost giant strength.
 
 
 ---

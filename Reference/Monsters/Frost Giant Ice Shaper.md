@@ -69,7 +69,7 @@ The object bearing the rune has AC 16; 40 hit points; and immunity to necrotic, 
 
 **Freezing Ray.** Ranged Spell Attack: +10 to hit, range 120 ft., one target. *Hit:* 17 (3d8 + 4) cold damage, and the target must make a DC 18 Constitution saving throw. On a failed save, the target has the restrained condition until the end of its next turn. On a successful save, the target's speed is reduced by 10 feet until the end of its next turn.
 
-**Ice Wolves (Requires Frost Rune).** The giant magically summons 1d4 wolves made of ice (use the winter wolf stat block in the Monster Manual to represent them, but they are Elementals instead of Monstrosities). The wolves appear in unoccupied spaces the giant can see within 30 feet of itself. The wolves take their turn immediately after the giant on the same initiative count, and they obey the giant's commands. The wolves gain a +6 bonus to their attack and damage rolls while they are within 30 feet of the giant. The wolves disappear after 1 minute, when the giant dies, or when the giant uses this action again.
+**Ice Wolves (Requires Frost Rune).** The giant magically summons 1d4 wolves made of ice (use the [[Winter Wolf]] stat block in the Monster Manual to represent them, but they are Elementals instead of Monstrosities). The wolves appear in unoccupied spaces the giant can see within 30 feet of itself. The wolves take their turn immediately after the giant on the same initiative count, and they obey the giant's commands. The wolves gain a +6 bonus to their attack and damage rolls while they are within 30 feet of the giant. The wolves disappear after 1 minute, when the giant dies, or when the giant uses this action again.
 
 
 ---

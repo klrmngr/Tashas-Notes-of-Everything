@@ -71,7 +71,7 @@ ___
 
 **Life Drain.** The atropal targets one creature it can see within 120 feet of it. The target must succeed on a DC 19 Constitution saving throw, taking 36 (8d8) necrotic damage on a failed save, or half as much damage on a successful one. The atropal regains a number of hit points equal to half the amount of damage dealt.
 
-**Summon Wraith (Recharge 6).** The atropal summons a wraith which materializes within 30 feet of it in an unoccupied space it can see. The wraith obeys its summoner's commands and can't be controlled by any other creature. The Wraith vanishes when it drops to 0 hit points or when its summoner dies.
+**Summon Wraith (Recharge 6).** The atropal summons a [[Wraith]] which materializes within 30 feet of it in an unoccupied space it can see. The wraith obeys its summoner's commands and can't be controlled by any other creature. The Wraith vanishes when it drops to 0 hit points or when its summoner dies.
 
 
 ---

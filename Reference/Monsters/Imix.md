@@ -77,7 +77,7 @@ ___
 
 **Flame Blast.** Ranged Spell Attack: +12 to hit, range 250 ft., one target. *Hit:* 35 (10d6) fire damage.
 
-**Summon Elementals (1/Day).** Imix summons up to three fire elementals and loses 30 hit points for each elemental he summons. Summoned elementals have maximum hit points, appear within 100 feet of Imix, and disappear if Imix is reduced to 0 hit points.
+**Summon Elementals (1/Day).** Imix summons up to three [[Fire Elemental|fire elementals]] and loses 30 hit points for each elemental he summons. Summoned elementals have maximum hit points, appear within 100 feet of Imix, and disappear if Imix is reduced to 0 hit points.
 
 
 ---

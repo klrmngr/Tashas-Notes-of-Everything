@@ -53,7 +53,7 @@ ___
 
 ### Traits
 
-**Change Shape (Recharges after a Short or Long Rest).** The drow can use a bonus action to magically polymorph into a giant spider, remaining in that form for up to 1 hour. It can revert to its true form as a bonus action. Its statistics, other than its size, are the same in each form. It can speak and cast spells while in giant spider form. Any equipment it is wearing or carrying in humanoid form melds into the giant spider form. It can't activate, use, wield, or otherwise benefit from any of its equipment. It reverts to its humanoid form if it dies.
+**Change Shape (Recharges after a Short or Long Rest).** The drow can use a bonus action to magically polymorph into a [[Giant Spider]], remaining in that form for up to 1 hour. It can revert to its true form as a bonus action. Its statistics, other than its size, are the same in each form. It can speak and cast spells while in giant spider form. Any equipment it is wearing or carrying in humanoid form melds into the giant spider form. It can't activate, use, wield, or otherwise benefit from any of its equipment. It reverts to its humanoid form if it dies.
 
 **Fey Ancestry.** The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.
 

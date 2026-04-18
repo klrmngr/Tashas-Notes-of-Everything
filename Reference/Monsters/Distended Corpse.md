@@ -51,7 +51,7 @@ ___
 
 ### Traits
 
-**Snake-Swollen.** When a corpse is reduced to 0 hit points, it splits open, disgorging a swarm of poisonous snakes. The snakes are hungry and fight until slain.
+**Snake-Swollen.** When a corpse is reduced to 0 hit points, it splits open, disgorging a [[Swarm Of Poisonous Snakes]]. The snakes are hungry and fight until slain.
 
 
 ---

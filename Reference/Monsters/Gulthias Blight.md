@@ -53,7 +53,7 @@ ___
 
 ### Traits
 
-**Blight Seeds.** When it finishes a Long Rest, the blight expels 1d6 seeds into unoccupied spaces on the ground within 30 feet of itself. After 24 hours, the seeds become creatures under the blight's control. Roll 1d8 for each seed to determine the creature it becomes: on 1-4, Twig Blight; on 5-6, Needle Blight; on 7-8, Vine Blight.
+**Blight Seeds.** When it finishes a Long Rest, the blight expels 1d6 seeds into unoccupied spaces on the ground within 30 feet of itself. After 24 hours, the seeds become creatures under the blight's control. Roll 1d8 for each seed to determine the creature it becomes: on 1-4, [[Twig Blight]]; on 5-6, [[Needle Blight]]; on 7-8, [[Vine Blight]].
 
 
 ---

@@ -88,7 +88,7 @@ If five Obzedat ghosts are all within 30 feet of each other, they can collective
 
 **Forced Obedience.** A target that all of the Obzedat ghosts can see must succeed on a DC 16 Wisdom saving throw or bow until the end of its next turn. Until this bow ends, the target can't take actions or reactions, and its speed is 0 and can't be increased.
 
-**Indentured Spirits (Costs 3 Actions).** The Obzedat ghosts conjure 1d6 indentured spirits (described in this chapter) within 60 feet of one of them.
+**Indentured Spirits (Costs 3 Actions).** The Obzedat ghosts conjure 1d6 [[Indentured Spirit|indentured spirits]] (described in this chapter) within 60 feet of one of them.
 
 
 ---

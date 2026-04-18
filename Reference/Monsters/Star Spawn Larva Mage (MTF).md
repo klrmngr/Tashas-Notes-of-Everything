@@ -55,7 +55,7 @@ ___
 
 ### Traits
 
-**Return to Worms.** When the larva mage is reduced to 0 hit points, it breaks apart into a swarm of insects in the same space. Unless the swarm is destroyed, the larva mage reforms from it 24 hours later.
+**Return to Worms.** When the larva mage is reduced to 0 hit points, it breaks apart into a [[Swarm Of Insects]] in the same space. Unless the swarm is destroyed, the larva mage reforms from it 24 hours later.
 
 
 ---

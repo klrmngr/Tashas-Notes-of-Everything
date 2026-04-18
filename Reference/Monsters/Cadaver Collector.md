@@ -72,7 +72,7 @@ ___
 
 ### Bonus Actions
 
-**Summon Specters (Recharges after a Short or Long Rest).** The collector calls up the enslaved spirits of those it has slain; 1d4 specters (without Sunlight Sensitivity) arise in unoccupied spaces within 15 feet of it. The specters act right after the collector on the same initiative count and fight until they're destroyed. They disappear when the collector is destroyed.
+**Summon Specters (Recharges after a Short or Long Rest).** The collector calls up the enslaved spirits of those it has slain; 1d4 [[Specter|specters]] (without Sunlight Sensitivity) arise in unoccupied spaces within 15 feet of it. The specters act right after the collector on the same initiative count and fight until they're destroyed. They disappear when the collector is destroyed.
 
 
 ---

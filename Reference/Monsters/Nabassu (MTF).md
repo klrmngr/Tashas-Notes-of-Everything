@@ -74,7 +74,7 @@ ___
 
 **Bite.** Melee Weapon Attack: +11 to hit, reach 5 ft., one target. *Hit:* 32 (4d12 + 6) piercing damage.
 
-**Soul-Stealing Gaze.** The nabassu targets one creature it can see within 30 feet of it. If the target can see the nabassu and isn't a construct or an undead, it must succeed on a DC 16 Charisma saving throw or reduce its hit point maximum by 13 (2d12) damage and give the nabassu an equal number of temporary hit points. This reduction lasts until the target finishes a short or long rest. The target dies if its hit point maximum is reduced to 0, and if the target is a humanoid, it immediately rises as a ghoul under the nabassu's control.
+**Soul-Stealing Gaze.** The nabassu targets one creature it can see within 30 feet of it. If the target can see the nabassu and isn't a construct or an undead, it must succeed on a DC 16 Charisma saving throw or reduce its hit point maximum by 13 (2d12) damage and give the nabassu an equal number of temporary hit points. This reduction lasts until the target finishes a short or long rest. The target dies if its hit point maximum is reduced to 0, and if the target is a humanoid, it immediately rises as a [[Ghoul]] under the nabassu's control.
 
 
 ---

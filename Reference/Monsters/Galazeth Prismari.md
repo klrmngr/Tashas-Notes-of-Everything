@@ -80,7 +80,7 @@ ___
 
 **Lightning Flash (Costs 2 Actions).** Galazeth moves up to half his flying speed without provoking opportunity attacks. When he passes within 15 feet of a creature during this move, that creature must succeed on a DC 22 Dexterity saving throw or take 11 (2d10) lightning damage. A creature can take this damage no more than once during the move.
 
-**Flowing Creation (Costs 3 Actions).** Galazeth magically summons 1d4 elemental mascots in unoccupied spaces he can see within 60 feet of himself. The art elementals obey his commands and take their turns immediately after his. Any creature, other than an art elemental, takes 5 (1d10) cold, fire, or lightning damage (Galazeth's choice) if it ends its turn within 5 feet of one or more of these elementals. When one of these elementals drops to 0 hit points, Galazeth can fly up to 20 feet without provoking opportunity attacks. These elementals disappear after 10 minutes, when Galazeth dies, or when he uses this action again.
+**Flowing Creation (Costs 3 Actions).** Galazeth magically summons 1d4 [[Art Elemental Mascot|elemental mascots]] in unoccupied spaces he can see within 60 feet of himself. The art elementals obey his commands and take their turns immediately after his. Any creature, other than an art elemental, takes 5 (1d10) cold, fire, or lightning damage (Galazeth's choice) if it ends its turn within 5 feet of one or more of these elementals. When one of these elementals drops to 0 hit points, Galazeth can fly up to 20 feet without provoking opportunity attacks. These elementals disappear after 10 minutes, when Galazeth dies, or when he uses this action again.
 
 
 ---

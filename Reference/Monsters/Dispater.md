@@ -93,7 +93,7 @@ ___
 
 **Flesh to Iron (Costs 2 Actions).** Melee Spell Attack: +15 to hit, reach 5 ft., one target. *Hit:* 40 (6d10 + 7) force damage, and the target must make a DC 23 Constitution saving throw. On a failed save, the target's flesh begins to harden, and the creature's movement speed is halved for 1 minute. If the creature is harmed by Flesh to Iron again, while still partly iron, the rest of the creature also turns to iron, killing them.
 
-**Call Underling (Costs 3 Actions).** Dispater summons an allied erinyes in an unoccupied space that he can see.
+**Call Underling (Costs 3 Actions).** Dispater summons an allied [[Erinyes]] in an unoccupied space that he can see.
 
 
 ---

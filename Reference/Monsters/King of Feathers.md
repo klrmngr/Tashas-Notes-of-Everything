@@ -66,7 +66,7 @@ ___
 
 **Tail.** Melee Weapon Attack: +10 to hit, reach 10 ft., one target. *Hit:* 20 (3d8 + 7) bludgeoning damage.
 
-**Summon Swarm (Recharge 5–6).** The King of Feathers exhales a swarm of insects (wasps) that forms in a space within 20 feet of it. The swarm acts as an ally of the King of Feathers and takes its turn immediately after it. The swarm disperses after 1 minute. It can't use the Summon Swarm action while it is grappling a creature with its jaws.
+**Summon Swarm (Recharge 5–6).** The King of Feathers exhales a [[Swarm Of Wasps|swarm of insects (wasps)]] that forms in a space within 20 feet of it. The swarm acts as an ally of the King of Feathers and takes its turn immediately after it. The swarm disperses after 1 minute. It can't use the Summon Swarm action while it is grappling a creature with its jaws.
 
 
 ---

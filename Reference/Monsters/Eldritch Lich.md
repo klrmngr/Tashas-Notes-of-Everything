@@ -54,7 +54,7 @@ ___
 
 ### Traits
 
-**Far Realm Parasite.** Inside the lich's torso dwells a wormlike parasite that contains the lich's soul. When the lich dies, it implodes into the parasite, which then vanishes into the Far Realm. In 2d4 days, the parasite causes the lich to reappear within 1d4 miles of where it died. If the lich died inside a magic circle cast to contain Undead, the lich instead reappears as an otyugh with all the lich's memories.
+**Far Realm Parasite.** Inside the lich's torso dwells a wormlike parasite that contains the lich's soul. When the lich dies, it implodes into the parasite, which then vanishes into the Far Realm. In 2d4 days, the parasite causes the lich to reappear within 1d4 miles of where it died. If the lich died inside a magic circle cast to contain Undead, the lich instead reappears as an [[Otyugh]] with all the lich's memories.
 
 **Legendary Resistance (4/Day).** If the lich fails a saving throw, it can choose to succeed instead.
 
@@ -67,7 +67,7 @@ ___
 
 **Multiattack.** The lich makes one Parasitic Tentacle attack or uses Spellcasting. The lich also uses Psychic Whisper twice.
 
-**Parasitic Tentacle.** Melee Weapon Attack: +9 to hit, reach 10 ft., one creature. *Hit:* 25 (6d6 + 4) piercing damage plus 25 (6d6 + 4) necrotic damage. The target must succeed on a DC 17 Constitution saving throw or be poisoned. The poisoned target can repeat the save at the end of each of its turns, ending the effect on itself on a success. The third time the target fails the save, the target dies and dissolves into a gibbering mouther that obeys the lich and uses the target's initiative.
+**Parasitic Tentacle.** Melee Weapon Attack: +9 to hit, reach 10 ft., one creature. *Hit:* 25 (6d6 + 4) piercing damage plus 25 (6d6 + 4) necrotic damage. The target must succeed on a DC 17 Constitution saving throw or be poisoned. The poisoned target can repeat the save at the end of each of its turns, ending the effect on itself on a success. The third time the target fails the save, the target dies and dissolves into a [[Gibbering Mouther]] that obeys the lich and uses the target's initiative.
 
 **Psychic Whisper.** The lich targets one creature it can see within 120 feet of itself. The target must succeed on a DC 17 Wisdom saving throw or take 25 (6d6 + 4) psychic damage and be stunned until the end of the lich's next turn as incomprehensible whispers fill the target's mind.
 

@@ -87,7 +87,7 @@ ___
 
 **Claws.** Arasta makes one attack with her claws.
 
-**Swarm (Costs 2 Actions).** Arasta causes two swarms of spiders to appear in unoccupied spaces within 5 feet of her.
+**Swarm (Costs 2 Actions).** Arasta causes two [[Swarm Of Spiders|swarms of spiders]] to appear in unoccupied spaces within 5 feet of her.
 
 **Toxic Web (Costs 3 Actions).** Each creature restrained by Arasta's Web of Hair takes 18 (4d8) poison damage.
 

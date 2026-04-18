@@ -81,7 +81,7 @@ ___
 
 **Fold Space (Costs 2 Actions).** Tanazir uses Teleport, and each other creature within 20 feet of the space she left must succeed on a DC 24 Strength saving throw or be pulled up to 30 feet closer to the center of that space and take 16 (3d10) force damage.
 
-**Fractal Refraction (Costs 3 Actions).** Tanazir magically summons 1d4 fractal mascots in unoccupied spaces she can see within 120 feet of herself. The fractals obey her commands and take their turns immediately after hers. While any of these fractals remain, attack rolls made against Tanazir have disadvantage. A summoned fractal disappears after 1 minute, when it or Tanazir dies, or when she uses this action again.
+**Fractal Refraction (Costs 3 Actions).** Tanazir magically summons 1d4 [[Fractal Mascot|fractal mascots]] in unoccupied spaces she can see within 120 feet of herself. The fractals obey her commands and take their turns immediately after hers. While any of these fractals remain, attack rolls made against Tanazir have disadvantage. A summoned fractal disappears after 1 minute, when it or Tanazir dies, or when she uses this action again.
 
 
 ---

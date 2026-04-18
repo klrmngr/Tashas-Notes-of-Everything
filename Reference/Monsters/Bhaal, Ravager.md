@@ -55,7 +55,7 @@ ___
 
 ### Traits
 
-**Avatar of Bhaal.** When the ravager drops to 0 hit points, its form fractures. Within the next 24 hours, it will reappear in its slayer form within 2d6 miles of where the ravager form fell.
+**Avatar of Bhaal.** When the ravager drops to 0 hit points, its form fractures. Within the next 24 hours, it will reappear in its [[Bhaal, Slayer|slayer form]] within 2d6 miles of where the ravager form fell.
 
 **Cull the Weak.** When the ravager damages a creature with a melee attack and the target is left with 20 or fewer remaining hit points, the creature must succeed on a DC 21 Constitution saving throw or be reduced to 0 hit points.
 

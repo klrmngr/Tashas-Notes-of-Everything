@@ -51,7 +51,7 @@ ___
 
 ### Traits
 
-**Raxivort's Tongue.** The xvart can communicate with ordinary bats and rats, as well as giant bats and giant rats.
+**Raxivort's Tongue.** The xvart can communicate with ordinary [[Bat|bats]] and [[Rat|rats]], as well as [[Giant Bat|giant bats]] and [[Giant Rat|giant rats]].
 
 
 ---

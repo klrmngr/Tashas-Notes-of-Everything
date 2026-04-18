@@ -84,7 +84,7 @@ ___
 
 **Miasmal Flow (Costs 2 Actions).** Beledros uses Miasmal Flow.
 
-**Teeming with Life (Costs 3 Actions).** Beledros magically summons 1d4 pest mascots in unoccupied spaces she can see within 60 feet of herself. The pests obey her commands and take their turns immediately after hers. Any creature, other than a pest, takes 9 (2d8) poison damage if it starts its turn within 5 feet of one or more of these pests. When one of these pests drops to 0 hit points, Beledros regains 9 hit points. These pests disappear after 10 minutes, when Beledros dies, or when she uses this action again.
+**Teeming with Life (Costs 3 Actions).** Beledros magically summons 1d4 [[Pest Mascot|pest mascots]] in unoccupied spaces she can see within 60 feet of herself. The pests obey her commands and take their turns immediately after hers. Any creature, other than a pest, takes 9 (2d8) poison damage if it starts its turn within 5 feet of one or more of these pests. When one of these pests drops to 0 hit points, Beledros regains 9 hit points. These pests disappear after 10 minutes, when Beledros dies, or when she uses this action again.
 
 
 ---

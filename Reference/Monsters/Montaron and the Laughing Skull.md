@@ -61,7 +61,7 @@ ___
 
 **Sneak Attack (1/Turn).** Montaron deals an extra 21 (6d6) damage when he hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of Montaron that isn't incapacitated and Montaron doesn't have disadvantage on the attack roll.
 
-**Special Equipment.** Montaron possesses a bag of holding. He keeps the demilich, Xzar, in the bag. He also possesses a portable hole, which he uses to aid in robberies. As a bonus action, Montaron can place his portable hole in his bag of holding. This instantly destroys both items and opens a gate to the Astral Plane. Montaron and any creature within 10 feet of him is sucked through the gate to a random location on the Astral Plane. The gate then closes.
+**Special Equipment.** Montaron possesses a bag of holding. He keeps the [[Demilich]], Xzar, in the bag. He also possesses a portable hole, which he uses to aid in robberies. As a bonus action, Montaron can place his portable hole in his bag of holding. This instantly destroys both items and opens a gate to the Astral Plane. Montaron and any creature within 10 feet of him is sucked through the gate to a random location on the Astral Plane. The gate then closes.
 
 
 ---

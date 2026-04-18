@@ -98,7 +98,7 @@ ___
 
 **Eruption (Costs 2 Actions).** Belial causes molten stone to erupt from a point he can see within 90 feet of him. All creatures within a 20-foot-radius sphere centered on that point must make a DC 23 Dexterity saving throw. Targets take 28 (8d6) fire damage on a failed save, or half as much damage on a successful one.
 
-**Call Underling (Costs 3 Actions).** Belial summons an allied horned devil in an unoccupied space that he can see.
+**Call Underling (Costs 3 Actions).** Belial summons an allied [[Horned Devil]] in an unoccupied space that he can see.
 
 
 ---

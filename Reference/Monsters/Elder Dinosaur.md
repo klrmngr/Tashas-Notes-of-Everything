@@ -59,7 +59,7 @@ ___
 
 **Siege Monster.** The elder dinosaur deals double damage to objects and structures.
 
-**Uniqueness.** These statistics are shared by all six elder dinosaurs: Etali, Primal Storm, Ghalta, Primal Hunger, Nezahal, Primal Tide, Tetzimoc, Primal Death, Zacama, Primal Calamity, Zetalpa, Primal Dawn
+**Uniqueness.** These statistics are shared by all six elder dinosaurs: [[Elder Dinosaur (Etali, Primal Storm)|Etali, Primal Storm]], [[Elder Dinosaur (Ghalta, Primal Hunger)|Ghalta, Primal Hunger]], [[Elder Dinosaur (Nezahal, Primal Tide)|Nezahal, Primal Tide]], [[Elder Dinosaur (Tetzimoc, Primal Death)|Tetzimoc, Primal Death]], [[Elder Dinosaur (Zacama, Primal Calamity)|Zacama, Primal Calamity]], [[Elder Dinosaur (Zetalpa, Primal Dawn)|Zetalpa, Primal Dawn]]
 
 
 ---

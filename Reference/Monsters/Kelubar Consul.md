@@ -87,7 +87,7 @@ ___
 
 ### Bonus Actions
 
-**Summon Demodand (1/Day).** The kelubar rolls a d6. A result of 1-2 summons in two allied farastu stalkers, a result of 3-4 summons in one allied kelubar consul.
+**Summon Demodand (1/Day).** The kelubar rolls a d6. A result of 1-2 summons in two allied [[Farastu Stalker|farastu stalkers]], a result of 3-4 summons in one allied kelubar consul.
 
 
 ---

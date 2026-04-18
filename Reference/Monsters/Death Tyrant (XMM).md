@@ -82,7 +82,7 @@ ___
 
 ### Bonus Actions
 
-**Negative Energy Cone.** The death tyrant's central eye emits an imperceptible, magical wave of negative energy in a 150-foot Cone. Creatures in that area can't regain Hit Points until the start of the death tyrant's next turn. An intact Humanoid corpse there instantly rises as a Zombie under the death tyrant's control and takes its turn immediately after the death tyrant on the same initiative count.
+**Negative Energy Cone.** The death tyrant's central eye emits an imperceptible, magical wave of negative energy in a 150-foot Cone. Creatures in that area can't regain Hit Points until the start of the death tyrant's next turn. An intact Humanoid corpse there instantly rises as a [[Zombie]] under the death tyrant's control and takes its turn immediately after the death tyrant on the same initiative count.
 
 
 ---

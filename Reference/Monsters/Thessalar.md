@@ -56,7 +56,7 @@ ___
 
 **Special Equipment.** Thessalar wields a +1 dagger coated with thessaltoxin poison (see appendix C).
 
-**Alchemical Homunculus.** Thessalar is accompanied by his Thessalar's homunculus. If the mending spell is cast on it, the homunculus regains 2d6 hit points.
+**Alchemical Homunculus.** Thessalar is accompanied by his [[Thessalar's homunculus]]. If the mending spell is cast on it, the homunculus regains 2d6 hit points.
 
 **Healing Toxicity.** Any magic item that restores hit points and can be applied to a piercing or slashing weapon (a potion, an ointment, and so forth) causes a hit with that weapon to deal extra damage to Thessalar equal to the amount the item would normally heal.
 

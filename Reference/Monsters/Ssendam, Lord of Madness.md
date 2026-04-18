@@ -76,7 +76,7 @@ ___
 
 **Chaos Staff.** Melee Weapon Attack: +12 to hit, reach 5 ft., one target. *Hit:* 12 (2d6 + 5) bludgeoning damage plus 11 (2d10) necrotic damage. The target must succeed on a DC 19 Constitution saving throw or have the stunned condition for 1 minute. The target may repeat the saving throw at the end of each of their turns, ending the effect on a success.
 
-**Summon Slaadi (1/Day).** Ssendam summons 1d4 + 1 death slaadi. A summoned slaad appears in an unoccupied space within 60 feet of Ssendam, acts as an ally of Ssendam, and can't summon other slaadi. It remains for 1 minute, until it or Ssendam dies, or until Ssendam dismisses it as an action.
+**Summon Slaadi (1/Day).** Ssendam summons 1d4 + 1 [[Death Slaad|death slaadi]]. A summoned slaad appears in an unoccupied space within 60 feet of Ssendam, acts as an ally of Ssendam, and can't summon other slaadi. It remains for 1 minute, until it or Ssendam dies, or until Ssendam dismisses it as an action.
 
 **Teleport.** Ssendam magically teleports, along with any equipment she is wearing or carrying, up to 120 feet to an unoccupied space she can see.
 

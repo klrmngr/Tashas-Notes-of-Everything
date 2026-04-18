@@ -53,7 +53,7 @@ ___
 
 ### Traits
 
-**Awakening of the Scion.** The cradle is a container for the scion of Surtur. When the cradle drops to 0 hit points, its body hardens and crumbles to ash. The scion instantly appears in the space the cradle occupied and uses the cradle's initiative count.
+**Awakening of the Scion.** The cradle is a container for the [[scion of Surtur]]. When the cradle drops to 0 hit points, its body hardens and crumbles to ash. The scion instantly appears in the space the cradle occupied and uses the cradle's initiative count.
 
 **Legendary Resistance (5/Day).** If the cradle fails a saving throw, it can choose to succeed instead.
 

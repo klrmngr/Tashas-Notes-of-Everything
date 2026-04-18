@@ -55,7 +55,7 @@ ___
 
 ### Traits
 
-**Incorporeal Movement.** The eidolon can move through other creatures and objects as if they were 3. It takes 5 (1d10) force damage if it ends its turn inside an object other than a sacred statue.
+**Incorporeal Movement.** The eidolon can move through other creatures and objects as if they were 3. It takes 5 (1d10) force damage if it ends its turn inside an object other than a [[Sacred Statue]].
 
 **Sacred Animation (Recharge 5–6).** When the eidolon moves into a space occupied by a sacred statue, the eidolon can disappear, causing the statue to become a creature under the eidolon's control. The eidolon uses the sacred statue's stat block in place of its own.
 

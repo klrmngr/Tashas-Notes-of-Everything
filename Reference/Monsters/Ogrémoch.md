@@ -73,7 +73,7 @@ ___
 
 **Boulder.** Ranged Weapon Attack: +6 to hit, range 500 ft., one target. *Hit:* 46 (7d10 + 8) bludgeoning damage. If the target is a creature, it must succeed on a DC 23 Strength saving throw or be knocked prone.
 
-**Summon Elementals (1/Day).** Ogrémoch summons up to three earth elementals and loses 30 hit points for each elemental he summons. Summoned elementals have maximum hit points, appear within 100 feet of Ogrémoch, and disappear if Ogrémoch is reduced to 0 hit points.
+**Summon Elementals (1/Day).** Ogrémoch summons up to three [[Earth Elemental|earth elementals]] and loses 30 hit points for each elemental he summons. Summoned elementals have maximum hit points, appear within 100 feet of Ogrémoch, and disappear if Ogrémoch is reduced to 0 hit points.
 
 
 ---
@@ -86,7 +86,7 @@ ___
 
 **Stomp (Costs 2 Actions).** Ogrémoch stomps the ground, creating an earth tremor that extends in a 30-foot radius. Other creatures standing on the ground in that radius must succeed on a DC 23 Dexterity saving throw or fall prone.
 
-**Create Gargoyle (Costs 3 Actions).** Ogrémoch's hit points are reduced by 50 as he breaks off a chunk of his body and places it on the ground in an unoccupied space within 15 feet of him. The chunk of rock instantly transforms into a gargoyle and acts on the same initiative count as Ogrémoch. Ogrémoch can't use this action if he has 50 hit points or fewer. The gargoyle obeys Ogrémoch's commands and fights until destroyed.
+**Create Gargoyle (Costs 3 Actions).** Ogrémoch's hit points are reduced by 50 as he breaks off a chunk of his body and places it on the ground in an unoccupied space within 15 feet of him. The chunk of rock instantly transforms into a [[Gargoyle]] and acts on the same initiative count as Ogrémoch. Ogrémoch can't use this action if he has 50 hit points or fewer. The gargoyle obeys Ogrémoch's commands and fights until destroyed.
 
 
 ---

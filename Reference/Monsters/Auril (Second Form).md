@@ -57,7 +57,7 @@ ___
 
 **Divine Being.** Auril can't be surprised and can't be changed into another form against her will.
 
-**Divine Rejuvenation.** When Auril drops to 0 hit points, her body collapses into shards of ice, whereupon Auril instantly reappears in her third form, in an unoccupied space within 60 feet of where her second form was destroyed. Her initiative count doesn't change.
+**Divine Rejuvenation.** When Auril drops to 0 hit points, her body collapses into shards of ice, whereupon Auril instantly reappears in her [[Auril (third form)|third form]], in an unoccupied space within 60 feet of where her second form was destroyed. Her initiative count doesn't change.
 
 **Legendary Resistance (2/Day in This Form).** If Auril fails a saving throw, she can choose to succeed instead.
 
@@ -78,7 +78,7 @@ ___
 
 **Cone of Cold (Recharges after a Short or Long Rest).** Auril causes a magical blast of cold air to erupt from her hand. Each creature in a 60-foot cone must make a DC 21 Constitution saving throw, taking 36 (8d8) cold damage on a failed save, or half as much damage on a successful one.
 
-**Create Ice Mephit (3/Day).** Auril breaks off an icicle from her body and hurls it into an unoccupied space she can see within 20 feet of her, where it magically transforms into an ice mephit (see its entry in the Monster Manual). The mephit acts immediately after Auril in the initiative order and obeys her commands.
+**Create Ice Mephit (3/Day).** Auril breaks off an icicle from her body and hurls it into an unoccupied space she can see within 20 feet of her, where it magically transforms into an [[Ice Mephit]] (see its entry in the Monster Manual). The mephit acts immediately after Auril in the initiative order and obeys her commands.
 
 **Ice Stasis (Recharge 5–6).** Auril magically creates a gem-sized ice crystal that hovers in a space within 5 feet of her. Auril then targets a creature she can see within 60 feet of the crystal. The target must succeed on a DC 21 Charisma saving throw or become trapped in the crystal, which is immovable. If the saving throw succeeds, the crystal shatters and nothing else happens. A creature trapped in the crystal is stunned, has 3 against attacks and other effects outside the crystal, and takes 21 (6d6) cold damage at the start of each of its turns. The creature can repeat the saving throw at the end of each of its turns, freeing itself on a success. The creature is also freed if the crystal is destroyed, which is a Tiny object with AC 18, 9 hit points, and immunity to all damage except fire damage. The freed creature appears in an unoccupied space of its choice within 30 feet of the shattered crystal.
 

@@ -52,7 +52,7 @@ ___
 
 ### Traits
 
-**Boo, The Miniature Giant Space Hamster.** Boo is Minsc's animal companion. Boo is a miniature giant space hamster and has the statistics of a rat.
+**Boo, The Miniature Giant Space Hamster.** Boo is Minsc's animal companion. Boo is a miniature giant space hamster and has the statistics of a [[Rat]].
 
 **Favored Enemy.** Minsc's favored enemy is evil. When he hits an evil creature with a melee attack he deals an additional 7 (2d6) slashing damage.
 

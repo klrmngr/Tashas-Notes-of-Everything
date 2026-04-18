@@ -52,7 +52,7 @@ ___
 
 ### Traits
 
-**Incubus Form.** When the succubus finishes a Long Rest, it can shape-shift into an Incubus, using that stat block instead of this one.
+**Incubus Form.** When the succubus finishes a Long Rest, it can shape-shift into an [[Incubus]], using that stat block instead of this one.
 
 
 ---

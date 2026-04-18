@@ -76,7 +76,7 @@ ___
 
 ### Reactions
 
-**Split (2/Day).** As a reaction to taking damage, the Eriflamme can split into fire elementals and reduce the damage to 0. The Eriflamme can form up to 10 fire elementals, splitting its remaining hit points between them. The fire elementals appear in spaces adjacent to or within the Eriflamme's old location, and all act on the Eriflamme's initiative. They gain a +5 bonus to attack rolls and have the Eriflamme's Reform action.
+**Split (2/Day).** As a reaction to taking damage, the Eriflamme can split into fire elementals and reduce the damage to 0. The Eriflamme can form up to 10 [[Fire Elemental|fire elementals]], splitting its remaining hit points between them. The fire elementals appear in spaces adjacent to or within the Eriflamme's old location, and all act on the Eriflamme's initiative. They gain a +5 bonus to attack rolls and have the Eriflamme's Reform action.
 
 
 ---

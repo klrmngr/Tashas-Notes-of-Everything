@@ -68,7 +68,7 @@ ___
 
 **Rend.** m +10, reach 10 ft. *Hit:* 12 (2d6 + 5) Slashing damage plus 3 (1d6) Necrotic damage.
 
-**Shadow Breath (Recharge 5–6).** dex DC 17, each creature in a 60-foot Cone.  35 (10d6) Necrotic damage.  Half damage.  A Humanoid reduced to 0 Hit Points by this damage dies, and a Shadow rises from the corpse. The shadow is under the dragon's control and shares the dragon's Initiative count but acts immediately after the dragon.
+**Shadow Breath (Recharge 5–6).** dex DC 17, each creature in a 60-foot Cone.  35 (10d6) Necrotic damage.  Half damage.  A Humanoid reduced to 0 Hit Points by this damage dies, and a [[Shadow]] rises from the corpse. The shadow is under the dragon's control and shares the dragon's Initiative count but acts immediately after the dragon.
 
 
 ---

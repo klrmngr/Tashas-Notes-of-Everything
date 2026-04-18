@@ -52,7 +52,7 @@ ___
 
 ### Traits
 
-**Shapechanger.** Baba Lysaga can use an action to polymorph into a swarm of insects (flies), or back into her true form. While in swarm form, she has a walking speed of 5 feet and a flying speed of 30 feet. Anything she is wearing transforms with her, but nothing she is carrying does.
+**Shapechanger.** Baba Lysaga can use an action to polymorph into a [[Swarm Of Insects]] (flies), or back into her true form. While in swarm form, she has a walking speed of 5 feet and a flying speed of 30 feet. Anything she is wearing transforms with her, but nothing she is carrying does.
 
 **Blessing of Mother Night.** Baba Lysaga is shielded against divination magic, as though protected by a nondetection spell.
 

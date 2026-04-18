@@ -96,7 +96,7 @@ ___
 
 **Golden Touch (Costs 2 Actions).** Mammon recharges Golden Gaze.
 
-**Call Underling (Costs 3 Actions).** Mammon summons an allied horned devil in an unoccupied space that he can see.
+**Call Underling (Costs 3 Actions).** Mammon summons an allied [[Horned Devil]] in an unoccupied space that he can see.
 
 
 ---

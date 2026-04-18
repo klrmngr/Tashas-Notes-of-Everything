@@ -52,7 +52,7 @@ ___
 
 ### Traits
 
-**Succubus Form.** When the incubus finishes a Long Rest, it can shape-shift into a Succubus, using that stat block instead of this one. Any equipment it's wearing or carrying isn't transformed.
+**Succubus Form.** When the incubus finishes a Long Rest, it can shape-shift into a [[Succubus]], using that stat block instead of this one. Any equipment it's wearing or carrying isn't transformed.
 
 
 ---

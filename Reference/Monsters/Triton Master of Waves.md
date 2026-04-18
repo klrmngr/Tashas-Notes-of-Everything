@@ -55,7 +55,7 @@ ___
 
 **Amphibious.** The triton can breathe air and water.
 
-**Summon Water Weird (Recharges after a Short or Long Rest).** As a bonus action, the triton magically summons 1d4 water weirds. The summoned weirds appear in unoccupied spaces in water within 60 feet of the triton. The water weirds act immediately after the triton on the same initiative count and fight until they're destroyed. They disappear if the triton dies.
+**Summon Water Weird (Recharges after a Short or Long Rest).** As a bonus action, the triton magically summons 1d4 [[Water Weird|water weirds]]. The summoned weirds appear in unoccupied spaces in water within 60 feet of the triton. The water weirds act immediately after the triton on the same initiative count and fight until they're destroyed. They disappear if the triton dies.
 
 
 ---

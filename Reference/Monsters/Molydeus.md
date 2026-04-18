@@ -68,7 +68,7 @@ ___
 
 **Demonic Weapon.** Melee Weapon Attack: +16 to hit, reach 15 ft., one target. *Hit:* 35 (4d12 + 9) force damage. If the target has at least one head and the molydeus rolled a 20 on the attack roll, the target is decapitated and dies if it can't survive without that head. A target is immune to this effect if it takes none of the damage, has legendary actions, or is Huge or larger. Such a creature takes an extra 27 (6d8) force damage from the hit.
 
-**Snakebite.** Melee Weapon Attack: +16 to hit, reach 15 ft., one creature. *Hit:* 16 (2d6 + 9) poison damage. The target must succeed on a DC 22 Constitution saving throw, or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target transforms into a manes if this reduces its hit point maximum to 0. This transformation can be ended only by a wish spell.
+**Snakebite.** Melee Weapon Attack: +16 to hit, reach 15 ft., one creature. *Hit:* 16 (2d6 + 9) poison damage. The target must succeed on a DC 22 Constitution saving throw, or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target transforms into a [[Manes]] if this reduces its hit point maximum to 0. This transformation can be ended only by a wish spell.
 
 **Wolf Bite.** Melee Weapon Attack: +16 to hit, reach 10 ft., one target. *Hit:* 25 (3d10 + 9) necrotic damage.
 

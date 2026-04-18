@@ -71,7 +71,7 @@ ___
 
 **Cloak of Shadows (2/Day).** Victoro becomes invisible until the end of his next turn. He becomes visible early immediately after he attacks or casts a spell.
 
-**Summon Devil (Recharges after 9 Days).** Victoro summons a barbed devil. The devil appears in an unoccupied space within 30 feet of Victoro, acts as Victoro's ally, and can't summon other devils. It remains for 1 minute, until it or Victoro dies, or until Victoro dismisses it as an action.
+**Summon Devil (Recharges after 9 Days).** Victoro summons a [[Barbed Devil]]. The devil appears in an unoccupied space within 30 feet of Victoro, acts as Victoro's ally, and can't summon other devils. It remains for 1 minute, until it or Victoro dies, or until Victoro dismisses it as an action.
 
 
 ---

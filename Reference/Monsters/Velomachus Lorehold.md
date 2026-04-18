@@ -79,7 +79,7 @@ ___
 
 **Chaotic Flow (Costs 2 Actions).** Velomachus moves up to half her flying speed. If a creature hits or misses her with an opportunity attack during this move, the attacker takes 19 (3d12) thunder damage.
 
-**Repeating History (Costs 3 Actions).** Velomachus magically summons 1d4 statue mascots in unoccupied spaces she can see within 60 feet of herself. The spirit statues obey her commands and take their turns immediately after hers. Any creature, other than a spirit statue or Velomachus, is restrained if it starts its turn within 5 feet of one or more of these spirit statues. This restrained condition lasts until the end of the creature's turn. These spirit statues disappear after 10 minutes, when Velomachus dies, or when she uses this action again.
+**Repeating History (Costs 3 Actions).** Velomachus magically summons 1d4 [[Spirit Statue Mascot|statue mascots]] in unoccupied spaces she can see within 60 feet of herself. The spirit statues obey her commands and take their turns immediately after hers. Any creature, other than a spirit statue or Velomachus, is restrained if it starts its turn within 5 feet of one or more of these spirit statues. This restrained condition lasts until the end of the creature's turn. These spirit statues disappear after 10 minutes, when Velomachus dies, or when she uses this action again.
 
 
 ---

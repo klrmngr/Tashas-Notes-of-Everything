@@ -53,7 +53,7 @@ ___
 
 ### Traits
 
-**Young Bronze Dragon.** Suldil is accompanied by a young bronze dragon. The dragon allows Suldil to use him as a mount.
+**Young Bronze Dragon.** Suldil is accompanied by a [[Young Bronze Dragon]]. The dragon allows Suldil to use him as a mount.
 
 
 ---

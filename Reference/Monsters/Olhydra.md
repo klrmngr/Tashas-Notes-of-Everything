@@ -73,7 +73,7 @@ ___
 
 **Water Jet.** Ranged Weapon Attack: +12 to hit, range 120 ft., one target. *Hit:* 21 (6d6) bludgeoning damage, and the target is knocked prone if it fails a DC 19 Strength saving throw.
 
-**Summon Elementals (1/Day).** Olhydra summons up to three water elementals and loses 30 hit points for each elemental she summons. Summoned elementals have maximum hit points, appear within 100 feet of Olhydra, and disappear if Olhydra is reduced to 0 hit points.
+**Summon Elementals (1/Day).** Olhydra summons up to three [[Water Elemental|water elementals]] and loses 30 hit points for each elemental she summons. Summoned elementals have maximum hit points, appear within 100 feet of Olhydra, and disappear if Olhydra is reduced to 0 hit points.
 
 
 ---

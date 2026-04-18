@@ -75,7 +75,7 @@ ___
 
 **Digest.** The corpse flower digests one corpse in its body and instantly regains 11 (2d10) hit points. Nothing of the digested corpse remains. Any equipment on the corpse is expelled from the corpse flower in its space.
 
-**Reanimate.** The corpse flower animates one corpse in its body, turning it into a zombie. The zombie appears in an unoccupied space within 5 feet of the corpse flower and acts immediately after it in the initiative order. The zombie acts as an ally of the corpse flower but isn't under its control, and the flower's stench clings to it (see Stench of Death).
+**Reanimate.** The corpse flower animates one corpse in its body, turning it into a [[Zombie]]. The zombie appears in an unoccupied space within 5 feet of the corpse flower and acts immediately after it in the initiative order. The zombie acts as an ally of the corpse flower but isn't under its control, and the flower's stench clings to it (see Stench of Death).
 
 
 ---

@@ -68,7 +68,7 @@ ___
 **Necrotic Bow.** r +4, range 150/600 ft. *Hit:* 6 (1d8 + 2) Piercing damage plus 4 (1d8) Necrotic damage.
 
 **Life Drain.** con DC 13, one creature within 5 feet.  6 (1d8 + 2) Necrotic damage, and the target's Hit Point maximum decreases by an amount equal to the damage taken.
-A Humanoid slain by this attack rises 24 hours later as a Zombie under the wight's control, unless the Humanoid is restored to life or its body is destroyed. The wight can have no more than twelve zombies under its control at a time.
+A Humanoid slain by this attack rises 24 hours later as a [[Zombie]] under the wight's control, unless the Humanoid is restored to life or its body is destroyed. The wight can have no more than twelve zombies under its control at a time.
 
 
 ---

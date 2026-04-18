@@ -54,7 +54,7 @@ ___
 
 ### Traits
 
-**Stirge Telepathy.** The strigoi can magically command any stirge within 120 feet of it, using a limited form of telepathy.
+**Stirge Telepathy.** The strigoi can magically command any [[Stirge]] within 120 feet of it, using a limited form of telepathy.
 
 
 ---
